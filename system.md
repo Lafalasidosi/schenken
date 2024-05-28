@@ -73,43 +73,43 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
     - 1- cards in the bid suit, and 
     - 3- cards in the other major.
 
-    Opener can bid 3NT with a stopper in the short major, bid the other major (showing 5 in the suit), or bid his best minor at the 4-level. Recall that, as noted in 4-way transfers, with a 6-card minor, no 4-card major, and a short suit, Responder starts with 2/s/ or 2NT then bids his shortness.
+    Opener can bid 3NT with a stopper in the short major, bid the other major (showing 5 in the suit), or bid his best minor at the 4-level. Recall that, as noted in 4-way transfers, with a 6-card minor, no 4-card major, and a short suit, Responder starts with 2<span style="color:blue">&spades;</span> or 2NT then bids his shortness.
  
  ### Bidding hands with Game values and 6-4 in the majors
 
- Start with Stayman. If partner responds 2/d/, make a Texas transfer to your 6-card major.
+ Start with Stayman. If partner responds 2<span style="color:orange">&diams;</span>, make a Texas transfer to your 6-card major.
 
  ### Bidding hands with slam invitational values and 6-4 in the majors
 
- Start with Stayman, then jump to 4/c/. Partner must bid 4/d/, then you bid your 6-card major. 4NT is a 1430 keycard ask in that suit. 
+ Start with Stayman, then jump to 4<span style="color:green">&clubs;</span>. Partner must bid 4<span style="color:orange">&diams;</span>, then you bid your 6-card major. 4NT is a 1430 keycard ask in that suit. 
 
 _Recall: Keycards include the four Aces and the King of agreed (or implied) suit. Responses to 1430 keycard 4NT are:_
 
-- _5/c/: 1 or 4 keycards_
-- _5/d/: 3 or 0 keycards_
-- _5/h/ 2 (or 5) keycards _without_ the Queen of trumps_
-- _5/s/ 2 (or 5) keycards _with_ the Queen of trumps_
+- _5<span style="color:green">&clubs;</span>: 1 or 4 keycards_
+- _5<span style="color:orange">&diams;</span>: 3 or 0 keycards_
+- _5<span style="color:red">&hearts;</span> 2 (or 5) keycards _without_ the Queen of trumps_
+- _5<span style="color:blue">&spades;</span> 2 (or 5) keycards _with_ the Queen of trumps_
 
-### Rebids after Opener answers 2/c/ Stayman
+### Rebids after Opener answers 2<span style="color:green">&clubs;</span> Stayman
 
-- We adopt the <a href="https://www.larryco.com/bridge-learning-center/detail/536">Smolen</a> convention at the 3-level for when the auction goes 1NT, 2/c/, 2/d/: 
+- We adopt the <a href="https://www.larryco.com/bridge-learning-center/detail/536">Smolen</a> convention at the 3-level for when the auction goes 1NT, 2<span style="color:green">&clubs;</span>, 2<span style="color:orange">&diams;</span>: 
 
-  - 3/h/ shows 5-4 in /s/ and /h/, 
-  - 3/s/ shows 5-4 in /h/ and /s/,
+  - 3<span style="color:red">&hearts;</span> shows 5-4 in <span style="color:blue">&spades;</span> and <span style="color:red">&hearts;</span>, 
+  - 3<span style="color:blue">&spades;</span> shows 5-4 in <span style="color:red">&hearts;</span> and <span style="color:blue">&spades;</span>,
   - both are forcing to Game.
 
-With such a holding in the majors but only invitational values, simply bid your major after Opener responds 2/d/ to your Stayman&mdash;though an invitational hand with /s/ can also be shown this way when Opener has shown 4 /h/s. With even fewer points, simply Jacoby transfer to your major.
+With such a holding in the majors but only invitational values, simply bid your major after Opener responds 2<span style="color:orange">&diams;</span> to your Stayman&mdash;though an invitational hand with <span style="color:blue">&spades;</span> can also be shown this way when Opener has shown 4 <span style="color:red">&hearts;</span>s. With even fewer points, simply Jacoby transfer to your major.
 
 To be clearer, we take the following from Gavin Wolpert: 
 
 <p style="text-align: center;">
-"I think most experts just play 1NT-2/c/-2X-2/s/ as any 5-card spade invite, since you get so much value in playing in 2/s/ rather than 2NT when partner declines. The expert standard approach these days is to play that all hands with 5 spades and an invite start by bidding Stayman, regardless of whether they have 4 Hearts.
-After 1NT-2/c/-2/d///d/, 2/s/ is invitational with 5 Spades.
+"I think most experts just play 1NT-2<span style="color:green">&clubs;</span>-2X-2<span style="color:blue">&spades;</span> as any 5-card spade invite, since you get so much value in playing in 2<span style="color:blue">&spades;</span> rather than 2NT when partner declines. The expert standard approach these days is to play that all hands with 5 spades and an invite start by bidding Stayman, regardless of whether they have 4 Hearts.
+After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:orange">&diams;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
 Then opener does the following:
 2NT = I accept your invitation but I only have a doubleton spade (this gives room for responder to retreat to 3 of a minor when they have a weakish 5-5 invite); 
-3/s/ = I have a fit and a decent hand;
+3<span style="color:blue">&spades;</span> = I have a fit and a decent hand;
 3NT = I have a fit and would be interested in playing 3NT when you are 5-3-3-2;
-4/s/ = I accept your invite and want to play 4S.
+4<span style="color:blue">&spades;</span> = I accept your invite and want to play 4S.
 There is so much value in stopping in 2S when you have a 5-2 spade fit and are not going to Game. 2NT sucks!
 May 31, 2023"</p>
 
@@ -117,13 +117,13 @@ May 31, 2023"</p>
 
 When Opener answers Stayman with a 4-card major, Responder bids 3 of the other major to show a fit with Opener and interest in slam. 
 
-- Corollary: 1NT, 2/c/, 2/d/, **4NT** is a quantitative invite to 6NT, not a keycard ask. <a href="https://www.nxtbook.com/acbl/bridgebulletin/2022_04/index.php#/p/64">Bridge Bulletin - Consults with the Doctor - The many faces of 4NT (requires subscription/ACBL login)</a>.
+- Corollary: 1NT, 2<span style="color:green">&clubs;</span>, 2<span style="color:orange">&diams;</span>, **4NT** is a quantitative invite to 6NT, not a keycard ask. <a href="https://www.nxtbook.com/acbl/bridgebulletin/2022_04/index.php#/p/64">Bridge Bulletin - Consults with the Doctor - The many faces of 4NT (requires subscription/ACBL login)</a>.
 
 ### Dealing with Direct Interference
 
-We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz<a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2/c/; 2/c/ and Double would mean Stayman respectively.
+We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz<a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
 
-If Overcaller says 2/d/ or higher:
+If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
 
 - 2X is weak and to play, 
 - 2NT is natural but doesn't promise a stopper, 
@@ -135,7 +135,7 @@ however, Texas transfers still apply.
 
 ### Dealing with lead-directing Doubles
 
-We start with a Double of Stayman 2/c/. Opener bids one of the following: 
+We start with a Double of Stayman 2<span style="color:green">&clubs;</span>. Opener bids one of the following: 
 
 
 
