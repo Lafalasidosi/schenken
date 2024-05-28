@@ -10,11 +10,11 @@ Schenken Big Club combines **two bidding systems**:
 
 2. other opening bids and responses derived from **Standard American** (and, to some extent, **2/1 Game Force**).
 
-Schenken is grounded primarily in an aggressive hand evaluation system. Opening suit bids other than 1<span style="color:green">&clubs; </span> and responses are based on a combination of HCP and Playing Points (PP).
+Schenken is grounded primarily in an aggressive hand evaluation system. Opening suit bids other than 1<span style="color:green">&clubs; </span> and responses are based on a combination of HCP and Distribution Points (DP). 
 
 ## Hand evaluation by Opener
 
-The opening bidder adds 1 PP for each 4-card suit headed by the Queen or better, an additional point for a 5-card suit, and either 1 or 2 or two points for the 6<sup>th</sup>, 7<sup>th</sup>, 8<sup>th</sup>... cards _each_, depending on the quality of the suit. (Remember that honours are worth more when combined.) Two playing points may be added by a suit headed by two of the top three honours with good intermediates. The total point count of a hand is the sum of its HCP and PP. 
+The opening bidder adds 1 PP for each 4-card suit headed by the Queen or better, an additional point for a 5-card suit, and either 1 or 2 or two points for the 6<sup>th</sup>, 7<sup>th</sup>, 8<sup>th</sup>... cards _each_, depending on the quality of the suit. (Remember that honours are worth more when combined.) Two distribution points may be added by a suit headed by two of the top three honours with good intermediates. The total point count of a hand is the sum of its HCP and DP and is called Playing Points (PP). (_Caution:_ oftentimes DP are referred to by PP as well.) 
 
 We open almost all hands when the total point count is at least 14. One routine 14-point exception is when opener holds a weak 5-card Club suit, 2 or fewer Diamonds, and no 4-card major&mdash;pass with such a hand.
 
