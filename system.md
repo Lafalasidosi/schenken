@@ -59,9 +59,9 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
     - a hand which would invite 3NT, or
     - a transfer to 3<span style="color:green">&clubs;</span>.
 
-    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3c/c if he would. Responder passes with a weak hand&mdash;he had a weak hand with 6+<span style="color:green">&clubs;</span> after all&mdash;bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to indicate shortness in the bid suit and slam interest.
+    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> with shortness in the last bid suit and slam interest.
 
-- 2NT, he may follow up with 3<span style="color:red">&hearts;</span>, 3<span style="color:blue">&spades;</span>, or 4<span style="color:green">&clubs;</span> to show shortness and desire for slam.
+- 2NT is a transfer to 3<span style="color:orange">&diams;</span>, which he may follow up with 3<span style="color:red">&hearts;</span>, 3<span style="color:blue">&spades;</span>, or 4<span style="color:green">&clubs;</span> to show shortness and desire for slam as before.
 
 - 3<span style="color:green">&clubs;</span> is Puppet Stayman, asking Opener for a 5-card major.
 
