@@ -22,7 +22,7 @@ Some terminology for those unfamiliar:
 - "Trebelton" is a 3-card suit
 - "Fit" refers to a partnership having 8+ cards in a suit together
 - "Forcing" refers to a bid that is not allowed to be passed unless the in-between Opponent makes a Call
-- "Game" means one of the contracts 3NT, 4/h/, 4/s/, 5/c/, 5/d/
+- "Game" means one of the contracts 3NT, 4<span style="color:red">&hearts;</span>, 4<span style="color:blue">&spades;</span>, 5<span style="color:green">&clubs;</span>, 5<span style="color:orange">&diams;</span>
 - "Keycard" refers to Aces and the King of whichever suit was agreed as trump (or implied by our system)
 - "Running a suit" means (typically) playing a suit from the highest card to lowest with the intent of switching only after exhausted one's holding
 - "Control" can refer to a high card commanding a suit (or at least preventing it from being run). One may have so-called first-, second-, third-round control etc.
