@@ -121,7 +121,7 @@ When Opener answers Stayman with a 4-card major, Responder bids 3 of the other m
 
 ### Dealing with Direct Interference
 
-We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz<a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
+We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz</a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
 
 If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
 
@@ -133,40 +133,9 @@ If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
 however, Texas transfers still apply.
 
 
-### Dealing with lead-directing Doubles
-
-We start with a Double of Stayman 2<span style="color:green">&clubs;</span>. Opener bids one of the following: 
 
 
-- Redouble: <span style="color:green">&clubs;</span> control; Responder resumes Stayman with 2<span style="color:orange">&diams;</span>, but can bid a 5-card major (invitational at 2-level, Smolen at 3-level)
 
-- 2NT: partial stopper in <span style="color:green">&clubs;</span> and more than a minimum&mdash;if minimum, he simply denies a stopper.
-
-  - if Responder has a full or partial <span style="color:green">&clubs;</span> stopper, he resumes Stayman with 3<span style="color:green">&clubs;</span> and can use Smolen if Opener responds 3<span style="color:orange">&diams;</span>, bidding 3NT if there's no major suit fit.
-
-
-- Pass: no 4-card major, no <span style="color:green">&clubs;</span> control, minimum. 
-
-  When Opener has no <span style="color:green">&clubs;</span> control, the goal is to ensure Responder declares so the Doubler is made to lead to the first trick&mdash;even if Responder has no <span style="color:green">&clubs;</span> stopper either, such a lead may be inhibited by putting Doubler on lead when he wanted to be led _to_.
-
-  - 3<span style="color:green">&clubs;</span> by Responder asks for a _3-card major_
-  
-    - 3<span style="color:orange">&diams;</span> promises <span style="color:red">&hearts;</span> and may have <span style="color:blue">&spades;</span>
-    - 3<span style="color:red">&hearts;</span> denies <span style="color:red">&hearts;</span> and promises <span style="color:blue">&spades;</span>
-
-    Responder places the contract.
-
-  - 3<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> by Responder shows 5 of the major bid and 4 of the other with invitational values
-  - 4<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> is as in the last point except shows enough values for Game.
-
-
-- 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: denies <span style="color:green">&clubs;</span> control/partial stopper, shows 4 of the unbid major
-
-- 2<span style="color:orange">&diams;</span>: denies <span style="color:green">&clubs;</span> control/partial stopper, shows both majors
-
-  Responder invokes the Impossible Major if he has slam interest&mdash;he bids 3<span style="color:green">&clubs;</span> if Opener has both majors, in which case Opener is forced to bid 3<span style="color:orange">&diams;</span> since we still want Doubler on lead. _Responder always shows 2<sup>nd</sup>-round control or better when he makes this kind of bid._ Opener starts cue-bidding if interested in slam, 3NT otherwise.
-
-  If Opener attempted to sign off using 3NT, Responder can still bid 4NT 1430 for the suit agreed upon. **Caution must be taken to right-side the contract if slam is pursued**; Responder should not bid a Queen ask unless he is prepared for Opener to bid 5 of the agreed trump suit&mdash;if the agreed suit is <span style="color:blue">&spades;</span>, Opener bids 5NT to show he has the Q<span style="color:blue">&spades;</span>.
 
 
 
