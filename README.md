@@ -6,10 +6,11 @@ Partner was kind enough to make a writeup of our agreements in Microsoft Word an
 
 Some terminology for those unfamiliar: 
 
-- High Card Points are counted thusly: 4 for each Ace, 3 for each King, 2 for each Queen, and 1 for each Jack
+- "High Card Points" are counted thusly: 4 for each Ace, 3 for each King, 2 for each Queen, and 1 for each Jack
 - When describing point count or suit holdings, "X-" and "X+" are read, "X or fewer" and "X or more" respectively
-- Major suits are Spades <span style="color:blue">&spades;</span> and Hearts <span style="color:red">&hearts;</span>, minor suits are Diamonds <span style="color:orange">&diams;</span> and Clubs <span style="color:green">&clubs;</span>
+- "Major suits" (or simply "majors") are Spades <span style="color:blue">&spades;</span> and Hearts <span style="color:red">&hearts;</span>, "minor suits" ("minors") are Diamonds <span style="color:orange">&diams;</span> and Clubs <span style="color:green">&clubs;</span>
 - Suits and Notrump are ranked lowest-to-highest thusly: <span style="color:green">&clubs;</span>, <span style="color:orange">&diams;</span>, <span style="color:red">&hearts;</span>, <span style="color:blue">&spades;</span>, NT
+- "Honours" are Aces, Kings, Queens, Jacks, and Tens
 - "Opener" is the player who makes the first non-Pass call during the Auction
 - "Call" commonly refers to a non-Pass bid
 - "Responder" is Opener's partner
