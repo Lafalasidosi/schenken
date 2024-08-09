@@ -147,13 +147,13 @@ However, Texas transfers still apply.
 
 11-16 HCP, 5-5 or better in the Minors 
 
-- 4/c///d/ response: 1430 for the suit bid
+- 4<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span> response: 1430 for the suit bid
 
 However Opener responds, we play Minwood: bid 5 of the _other_ minor to ask for _specific_ Kings.
 
 ### 3NT
 
-Gambling: solid 7-card suit in /d/, /h/, or /s/. 4/c/ by Responder asks Opener to bid his suit.
+Gambling: solid 7-card suit in <span style="color:orange">&diams;</span>, <span style="color:red">&hearts;</span>, or <span style="color:blue">&spades;</span>. 4<span style="color:green">&clubs;</span> by Responder asks Opener to bid his suit.
 
 
 
