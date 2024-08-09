@@ -43,9 +43,11 @@ _All 1<span style="color:green">&clubs;</span> openings contain at least 19 PP._
 
 1<span style="color:green">&clubs;</span> and 2<span style="color:orange">&diams;</span>
 
-## Notrump Opening Bids
+# Notrump Opening Bids
 
-- 1NT: 15-17 HCP, balanced hand
+## 1NT
+
+15-17 HCP, balanced hand
 
 There are 18-point hands we downgrade to 1NT; there are 14-point hands we may upgrade to 1NT (say, with a good 5-card suit, or in third seat). _We frequently open 1NT with a 5-card major._
 
@@ -59,7 +61,7 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
     - a hand which would invite 3NT, or
     - a transfer to 3<span style="color:green">&clubs;</span>.
 
-    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> with shortness in the last bid suit and slam interest.
+    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> suit with shortness in the last bid suit and slam interest.
 
 - 2NT is a transfer to 3<span style="color:orange">&diams;</span>, which he may follow up with 3<span style="color:red">&hearts;</span>, 3<span style="color:blue">&spades;</span>, or 4<span style="color:green">&clubs;</span> to show shortness and desire for slam as before.
 
@@ -104,7 +106,7 @@ To be clearer, we take the following from Gavin Wolpert:
 
 <p style="text-align: center;">
 "I think most experts just play 1NT-2<span style="color:green">&clubs;</span>-2X-2<span style="color:blue">&spades;</span> as any 5-card spade invite, since you get so much value in playing in 2<span style="color:blue">&spades;</span> rather than 2NT when partner declines. The expert standard approach these days is to play that all hands with 5 spades and an invite start by bidding Stayman, regardless of whether they have 4 Hearts.
-After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:orange">&diams;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
+After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:orange">&hearts;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
 Then opener does the following:
 2NT = I accept your invitation but I only have a doubleton spade (this gives room for responder to retreat to 3 of a minor when they have a weakish 5-5 invite); 
 3<span style="color:blue">&spades;</span> = I have a fit and a decent hand;
@@ -115,9 +117,17 @@ May 31, 2023"</p>
 
 - Impossible Major at the 3-level.
 
-When Opener answers Stayman with a 4-card major, Responder bids 3 of the other major to show a fit with Opener and interest in slam. 
+When Opener answers Stayman with a 4-card major, Responder bids 3 of the other major to show a fit with Opener and interest in slam&mdash;the "Impossible Major" bid. 
 
 - Corollary: 1NT, 2<span style="color:green">&clubs;</span>, 2<span style="color:orange">&diams;</span>, **4NT** is a quantitative invite to 6NT, not a keycard ask. <a href="https://www.nxtbook.com/acbl/bridgebulletin/2022_04/index.php#/p/64">Bridge Bulletin - Consults with the Doctor - The many faces of 4NT (requires subscription/ACBL login)</a>.
+
+
+### Superaccepts of a Jacoby Transfer
+
+When Responder makes a Jacoby transfer at the 2-level, a bid of 2NT shows 3-card support and a maximum; 3M shows a max with 4-card support.
+
+
+
 
 ### Dealing with Direct Interference
 
@@ -128,9 +138,22 @@ If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
 - 2X is weak and to play, 
 - 2NT is natural but doesn't promise a stopper, 
 - Double is takeout for the other suits, and
-- a cue bid is Game-forcing Stayman,
+- a cue bid is Game-forcing Stayman.
 
-however, Texas transfers still apply.
+However, Texas transfers still apply.
+
+
+### 2NT
+
+11-16 HCP, 5-5 or better in the Minors 
+
+- 4/c///d/ response: 1430 for the suit bid
+
+However Opener responds, we play Minwood: bid 5 of the _other_ minor to ask for _specific_ Kings.
+
+### 3NT
+
+Gambling: solid 7-card suit in /d/, /h/, or /s/. 4/c/ by Responder asks Opener to bid his suit.
 
 
 
