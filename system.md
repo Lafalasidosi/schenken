@@ -28,7 +28,7 @@ A single raise of <span style="color:blue">&spades;</span>/
 
 ## Points needed for Game
 
-Following a non-1<span style="color:green">&clubs;</span>opening, we look for 28, 30, and 32+ points for Game in a major, Game in a minor, and small slam respectively.
+We look for 28, 30, and 32+ points for Game in a major, Game in a minor, and small slam respectively.
 
 **Evaluation for Notrump:** Opener's bid is based upon HCP (15-17), but both Opener and Responder may add PPs as though they were opening, _but only with both a strong suit and sufficient entries_. For example, KQJxxxx with no outside entry across a doubleton is useless unless the Ace falls on the first round of the suit.
 
