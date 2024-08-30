@@ -206,7 +206,61 @@ If passed:
   - Double raise: 5+ cards, 8-PP
 
 
+### After a Takeout Double
+
+If unpassed:
+  - 2/s//3/h/ (jump cue in other major): forcing raise
+  - 2NT: invitational (12-14 PP) with 4-card support
+  - 1/s//2/h/ (cue bid of other major): invitational with 3-card support with a doubleton or stiff (remember that Redouble is an option; this kind of raise shows a ruffing value)
+  - 3/c///d/: 8-10 HCP, good 5+card suit, 3-card support for Opener
+  - simple raise: 9-11 PP, 3- or 4-card support
+  - jump raise: preemptive
+  - Redouble: 10+ HCP, implies no fit, interest in penalty double
+
+If passed:
+  - 2/s//3/h/ (jump cue in other major): invitational with 4-card support
+  - 2NT: Unusual for the minors with only 8-10 points
+  -  1/s//2/h/ (cue bid of other major): invitational with 3-card support
+  - simple raise: 9-11 PP
+  - jump raise: preemptive
+
+  ## Special rebid by Opener
+
+  Suppose the auction goes 1/d/-1M:
+
+  - 3/c/: game-forcing raise of Responder's major.
+
+  Opener is usually showing a good /d/ suit or an Ace-rich hand which reevealuates after the 1M bid to at least 18 PP. Think of Opener saying with this bid, "Partner, your response makes my hand a 1/c/ opener."
+
+  Responder bids the same way Opener does in a 1M-3/c/ auction.
+
+# Minor Suit Openings
+
+As mentioned in the introductory comments, the rules for responses to 1/c/ and 1/d/ are very different. We start with 1/c/. Recall that this bid shows 17+HCP, sometimes 14+, but *always* 19+PP.
+
+## Responses to 1/c/
+
+  - 1/d/: 0-6 HCP. Can pass any non-jump rebid by Opener; can raise or bid own suit with 4-6 HCP if passing a non-jump rebid is undesirable (e.g. Opener rebids a simple 1/h/ but you're void and have 5 Spades with 4-6 HCP; bid 1S).
   
+  _However_, if Responder's hand reevaluates to 9+PP after Opener's rebid, jump to game in his suit.
+
+  - 2/c/: 7-8 HCP, at least one Ace or King (with 7-8 points in Quacks, bid 1/d/). Forcing to game _most of the time_ (e.g. definitely forcing when Opener rebids 2NT).
+
+  **All other responses are game-forcing**
+  - 1/h///s//2/d/: 5+ cards, 9+ HCP
+
+Opener should not raise Responder's suit immediately if he has his own 5+card suit, but raise if Responder himself doesn't. An immediate raise of Responder's suit implies 4+ card support. 
+
+Responder should bid naturally, *patterning out* his hand; a NT rebid by responder shows 5332 shape.
+
+  - 1NT: 9-11 HCP, balanced
+  - 2NT: 12-14 HCP, balanced
+  
+
+
+
+
+
 
 
 
