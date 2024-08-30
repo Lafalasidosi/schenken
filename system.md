@@ -240,7 +240,7 @@ As mentioned in the introductory comments, the rules for responses to 1<span sty
 
 ## Responses to 1<span style="color:green">&clubs;</span>
 
-  - 1<span style="color:orange">&diams;</span>: 0-6 HCP. Can pass any non-jump rebid by Opener; can raise or bid own suit with 4-6 HCP if passing a non-jump rebid is undesirable (e.g. Opener rebids a simple 1<span style="color:red">&hearts;</span> but you're void and have 5 Spades with 4-6 HCP; bid 1S).
+  - 1<span style="color:orange">&diams;</span>: 0-6 HCP. Can pass any non-jump rebid by Opener; can raise or bid own suit with 4-6 HCP if passing a non-jump rebid is undesirable (e.g. Opener rebids a simple 1<span style="color:red">&hearts;</span> but you're void and have 5 Spades with 4-6 HCP; bid 1<span style="color:blue">&spades;</span>).
   
   _However_, if Responder's hand reevaluates to 9+PP after Opener's rebid, jump to game in his suit.
 
@@ -268,7 +268,7 @@ Responder should bid naturally, *patterning out* his hand; a NT rebid by respond
 
 **Bidding 5NT in a 1430 auction promises all key cards and the Queen of trumps are accounted for.** It asks partner to show his lowest unbid King. Subsequent bids below the agreed suit ask partner to bid another King, if he has one. 
 
-If the Queen Ask receives a response at the 6-level, showing the Queen and the King of the suit bid, the cheapest response below the agreed suit asks partner if he has anything more (e.g. ...4NT-5<span style="color:green">&clubs;</span>-5<span style="color:orange">&diams;</span>-6<span style="color:green">&clubs;</span>-6<span style="color:orange">&diams;</span> asks for the King of either <span style="color:orange">&diams;</span> or <span style="color:blue">&spades;</span>.)
+If the Queen Ask receives a response at the 6-level, showing the Queen and the King of the suit bid, the cheapest response below the agreed suit asks partner if he has anything more (e.g. assuming /h/ are trump, ...4NT-5<span style="color:green">&clubs;</span>-5<span style="color:orange">&diams;</span>-6<span style="color:green">&clubs;</span>-6<span style="color:orange">&diams;</span> asks for the King of either <span style="color:orange">&diams;</span> or <span style="color:blue">&spades;</span>.)
 
 When 4NT is a quantitative raise, 
 
@@ -283,15 +283,44 @@ When 4NT is a quantitative raise,
 
 ## Rebids by Opener
 
-**Non-jump rebids (with the exception of 2NT) are non-forcing when Responder bid 1<span style="color:orange">&diams;</span>.**
+### Non-jump rebids
+
+After 1/d/ by Responder, **all** non-jump rebids **except 2NT** are non-forcing. Recall that Responder *can* bid again if he's maximum and his hand either fits very poorly but has own suit, or fits very well, in which case he bids game.
 
 Unless Opener is balanced, he bids his 5-card suit, then his 4-card suit, then his 3-card suit. In general, each partner prioritizes *patterning out* his hand.
 
+Suppose Opener is balanced: 
+
+1/c/-1/d/*: 
+  - 1NT: 18-20 HCP
+  - 2NT: 21-22 HCP
+    - Stayman and transfers apply since 1/d/* is artificial
+
+That is, **if Responder makes a positive response, systems are off**&mdash;even if Opener has a NT rebid. Both players bid naturally in a game-forcing auction.
+
+### Jump Rebids
 
 
+#### After a 1/d/ response
+
+A very good hand, generally 23+ PP with a good 6+ card suit. **It is forcing,** and partner's priority is to show a fit or a doubleton honour by raising, simply with 0-3 HCP, jumping with 4-6. *With no fit*, Responder simply shows a source of strength or a suit. 
+
+#### After a positive response
+
+Same as Responder's jump bids: single jump shows a solid suit, double jump shows a broken suit.
 
 
+## Dealing with Interference
 
+### At the 1-level
+
+  - Pass: 0-6 HCP (note this is alertable)
+  - 2/c/: 7-8 HCP, at least an Ace or a King
+  - 1NT: 7-8 HCP with stopper in Opponent's suit
+  - any other (non-jump) free bid: 4-6 HCP with a good 5+ card suit
+  - Double: 9+ HCP
+  - Cue bid: 9+ HCP and shortness in Opponent's suit
+  
 
 
 
