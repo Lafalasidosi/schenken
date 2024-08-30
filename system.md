@@ -104,7 +104,7 @@ To be clearer, we take the following from Gavin Wolpert:
 
 <p style="text-align: center;">
 "I think most experts just play 1NT-2<span style="color:green">&clubs;</span>-2X-2<span style="color:blue">&spades;</span> as any 5-card spade invite, since you get so much value in playing in 2<span style="color:blue">&spades;</span> rather than 2NT when partner declines. The expert standard approach these days is to play that all hands with 5 spades and an invite start by bidding Stayman, regardless of whether they have 4 Hearts.
-After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:orange">&diams;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
+After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
 Then opener does the following:
 2NT = I accept your invitation but I only have a doubleton spade (this gives room for responder to retreat to 3 of a minor when they have a weakish 5-5 invite); 
 3<span style="color:blue">&spades;</span> = I have a fit and a decent hand;
