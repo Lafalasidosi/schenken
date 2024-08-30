@@ -109,8 +109,8 @@ Then opener does the following:
 2NT = I accept your invitation but I only have a doubleton spade (this gives room for responder to retreat to 3 of a minor when they have a weakish 5-5 invite); 
 3<span style="color:blue">&spades;</span> = I have a fit and a decent hand;
 3NT = I have a fit and would be interested in playing 3NT when you are 5-3-3-2;
-4<span style="color:blue">&spades;</span> = I accept your invite and want to play 4S.
-There is so much value in stopping in 2S when you have a 5-2 spade fit and are not going to Game. 2NT sucks!
+4<span style="color:blue">&spades;</span> = I accept your invite and want to play 4<span style="color:blue">&spades;</span>.
+There is so much value in stopping in 2<span style="color:blue">&spades;</span> when you have a 5-2 spade fit and are not going to Game. 2NT sucks!
 May 31, 2023"</p>
 
 - Impossible Major at the 3-level.
