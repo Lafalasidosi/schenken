@@ -255,8 +255,37 @@ Responder should bid naturally, *patterning out* his hand; a NT rebid by respond
 
   - 1NT: 9-11 HCP, balanced
   - 2NT: 12-14 HCP, balanced
+    - 2/3/c/:  Stayman; Impossible Major applies
+    - 4/c///d///h///s/: 1430 for that suit
+    - 4NT: quantitative invite to 6NT
+    - other bids by Opener are natural
+  - 3NT: 15+ HCP balanced
+    - 4/c/ is Stayman; Impossible Major
+    - 4/d///h///s//5/c/: 1430 for that suit
+    - 4NT: quantitative invite to 6NT
   
+### Special note on 1430/quantitative raise auctions
 
+**Bidding 5NT in a 1430 auction promises all key cards and the Queen of trumps are accounted for.** It asks partner to show his lowest unbid King. Subsequent bids below the agreed suit ask partner to bid another King, if he has one. 
+
+If the Queen Ask receives a response at the 6-level, showing the Queen and the King of the suit bid, the cheapest response below the agreed suit asks partner if he has anything more (e.g. ...4NT-5/c/-5/d/-6/c/-6/d/ asks for the King of either /d/ or /s/.)
+
+When 4NT is a quantitative raise, 
+
+  - 5/c///d/: 4-card suit, inviting small slam if partner has 4-card support; otherwise correct to 5NT
+  - 6/c///d/: 5-card suit, invites partner to pass with support or to correct to 6NT.
+
+  ### Jump responses to 1/c/
+
+  A single jump (except 1/c/-3/c/, which is 9+HCP, 5+/c/) shows 9+ HCP and a *solid* 6+ card suit. AKQJx is admissable, but Responder should have 6 tricks. 
+
+  A double jump shows 11+ HCP with a long but *broken* suit (missing 1 of the 4 top honours). Again, Responder should have a 6+ card suit so that if Opener happens to have the missing honour, he can consider the suit solid and count tricks.
+
+## Rebids by Opener
+
+**Non-jump rebids (with the exception of 2NT) are non-forcing when Responder bid 1/d/.**
+
+Unless Opener is balanced, he bids his 5-card suit, then his 4-card suit, then his 3-card suit. In general, each partner prioritizes *patterning out* his hand.
 
 
 
