@@ -83,7 +83,7 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
 
  Start with Stayman, then jump to 4<span style="color:green">&clubs;</span>. Partner must bid 4<span style="color:orange">&diams;</span>, then you bid your 6-card major. 4NT is a 1430 keycard ask in that suit. 
 
-_Recall: Keycards include the four Aces and the King of agreed (or implied) suit. Responses to 1430 keycard 4NT are:_
+_Recall: Key cards include the four Aces and the King of agreed (or implied) suit. Responses to 1430 keycard 4NT are:_
 
 - _5<span style="color:green">&clubs;</span>: 1 or 4 keycards_
 - _5<span style="color:orange">&diams;</span>: 3 or 0 keycards_
@@ -321,6 +321,8 @@ Same as Responder's jump bids: single jump shows a solid suit, double jump shows
   - Double: 9+ HCP
   - Cue bid: 9+ HCP and shortness in Opponent's suit
   
+### At the 2-level
+
 
 
 
