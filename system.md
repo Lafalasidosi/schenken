@@ -28,7 +28,7 @@ A single raise of <span style="color:blue">&spades;</span>/
 
 ## Points needed for Game
 
-Following a non-1<span style="color:green">&clubs;</span>opening, we look for 28, 30, and 32+ points for Game in a major, Game in a minor, and small slam respectively.
+We look for 28, 30, and 32+ points for Game in a major, Game in a minor, and small slam respectively.
 
 **Evaluation for Notrump:** Opener's bid is based upon HCP (15-17), but both Opener and Responder may add PPs as though they were opening, _but only with both a strong suit and sufficient entries_. For example, KQJxxxx with no outside entry across a doubleton is useless unless the Ace falls on the first round of the suit.
 
@@ -51,7 +51,7 @@ _All 1<span style="color:green">&clubs;</span> openings contain at least 19 PP._
 
 There are 18-point hands we downgrade to 1NT; there are 14-point hands we may upgrade to 1NT (say, with a good 5-card suit, or in third seat). _We frequently open 1NT with a 5-card major._
 
-### Responses to 1NT
+## Responses to 1NT
 
 - 2<span style="color:green">&clubs;</span> is Stayman, 
 - 2<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span> & 4<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span> are Jacoby & Texas transfers to 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> & 4<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> respectively. 
@@ -77,22 +77,22 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
 
     Opener can bid 3NT with a stopper in the short major, bid the other major (showing 5 in the suit), or bid his best minor at the 4-level. Recall that, as noted in 4-way transfers, with a 6-card minor, no 4-card major, and a short suit, Responder starts with 2<span style="color:blue">&spades;</span> or 2NT then bids his shortness.
  
- ### Bidding hands with Game values and 6-4 in the majors
+ ## Bidding hands with Game values and 6-4 in the majors
 
  Start with Stayman. If partner responds 2<span style="color:orange">&diams;</span>, make a Texas transfer to your 6-card major.
 
- ### Bidding hands with slam invitational values and 6-4 in the majors
+ ## Bidding hands with slam invitational values and 6-4 in the majors
 
  Start with Stayman, then jump to 4<span style="color:green">&clubs;</span>. Partner must bid 4<span style="color:orange">&diams;</span>, then you bid your 6-card major. 4NT is a 1430 keycard ask in that suit. 
 
-_Recall: Keycards include the four Aces and the King of agreed (or implied) suit. Responses to 1430 keycard 4NT are:_
+_Recall: Key cards include the four Aces and the King of agreed (or implied) suit. Responses to 1430 keycard 4NT are:_
 
 - _5<span style="color:green">&clubs;</span>: 1 or 4 keycards_
 - _5<span style="color:orange">&diams;</span>: 3 or 0 keycards_
 - _5<span style="color:red">&hearts;</span> 2 (or 5) keycards _without_ the Queen of trumps_
 - _5<span style="color:blue">&spades;</span> 2 (or 5) keycards _with_ the Queen of trumps_
 
-### Rebids after Opener answers 2<span style="color:green">&clubs;</span> Stayman
+## Rebids after Opener answers 2<span style="color:green">&clubs;</span> Stayman
 
 - We adopt the <a href="https://www.larryco.com/bridge-learning-center/detail/536">Smolen</a> convention at the 3-level for when the auction goes 1NT, 2<span style="color:green">&clubs;</span>, 2<span style="color:orange">&diams;</span>: 
 
@@ -111,8 +111,8 @@ Then opener does the following:
 2NT = I accept your invitation but I only have a doubleton spade (this gives room for responder to retreat to 3 of a minor when they have a weakish 5-5 invite); 
 3<span style="color:blue">&spades;</span> = I have a fit and a decent hand;
 3NT = I have a fit and would be interested in playing 3NT when you are 5-3-3-2;
-4<span style="color:blue">&spades;</span> = I accept your invite and want to play 4S.
-There is so much value in stopping in 2S when you have a 5-2 spade fit and are not going to Game. 2NT sucks!
+4<span style="color:blue">&spades;</span> = I accept your invite and want to play 4<span style="color:blue">&spades;</span>.
+There is so much value in stopping in 2<span style="color:blue">&spades;</span> when you have a 5-2 spade fit and are not going to Game. 2NT sucks!
 May 31, 2023"</p>
 
 - Impossible Major at the 3-level.
@@ -131,6 +131,7 @@ When Responder makes a Jacoby transfer at the 2-level, a bid of 2NT shows 3-card
 
 ### Dealing with Direct Interference
 
+We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz</a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
 We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz</a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
 
 If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
