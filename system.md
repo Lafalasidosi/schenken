@@ -323,6 +323,37 @@ Same as Responder's jump bids: single jump shows a solid suit, double jump shows
   
 ### At the 2-level
 
+  - Pass: 0-8 HCP
+  - Double: 9+ HCP
+  - Free (suit) bid: 6-8 HCP with a good suit
+  - 2NT: 7-8 HCP with 1+ stopper in Overcaller's suit
+
+### At the 3-level
+
+  - Pass: 0-8 HCP
+  - Double: 9+ through 3/d/, penalty-oriented otherwise
+  - Free (suit) bid: 7-8 HCP, good suit
+  - 3NT: 8-9 HCP, 1+ stopper
+
+### Schenkensohl
+
+A modification of the Lebensohl convention, Schenkensohl is available to Responder in the following auctions: 
+
+  - 1/c/-2/d/-Pass-Pass-Double
+  - 1/c/-2/h/-Pass-Pass-Double
+  - 1/c/-2/s/-Pass-Pass-Double
+
+In many situations&mdash;if not most&mdash;Opener will either bid his own suit or some level of Notrump. However, he may have a hand he deems worthy of a reopening Double. How should we respond? We need a way to tell partner whether we are at the lower end of our range (0-5 (bad)) or the higher ((good) 5-8)&mdash;hence borrowing from Lebensohl.
+
+  - 3-level bid: 6-8 HCP, **good hand**,  4+cards in the suit bid
+  - 2NT: relay, **weak hand**; Opener **must** bid 3/c/, Responder passes or bids his 4+card suit
+  - 2NT then 3NT: 6-8 HCP, **exactly 1 full stopper**, no 4-card major
+  - 3NT: 6-8 HCP, **no stopper**, no 4-card major
+  - 3-level cuebid: 6-8 HCP, **partial stopper**, no 4-card major
+  - 2NT-then-3-level-cuebid: 6-8 HCP, partial stopper, **4 of the other major if Overcaller bid one**. 
+
+  
+
 
 
 
