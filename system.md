@@ -268,7 +268,7 @@ Responder should bid naturally, *patterning out* his hand; a NT rebid by respond
 
 **Bidding 5NT in a 1430 auction promises all key cards and the Queen of trumps are accounted for.** It asks partner to show his lowest unbid King. Subsequent bids below the agreed suit ask partner to bid another King, if he has one. 
 
-If the Queen Ask receives a response at the 6-level, showing the Queen and the King of the suit bid, the cheapest response below the agreed suit asks partner if he has anything more (e.g. assuming /h/ are trump, ...4NT-5<span style="color:green">&clubs;</span>-5<span style="color:orange">&diams;</span>-6<span style="color:green">&clubs;</span>-6<span style="color:orange">&diams;</span> asks for the King of either <span style="color:orange">&diams;</span> or <span style="color:blue">&spades;</span>.)
+If the Queen Ask receives a response at the 6-level, showing the Queen and the King of the suit bid, the cheapest response below the agreed suit asks partner if he has anything more (e.g. assuming <span style="color:red">&hearts;</span> are trump, ...4NT-5<span style="color:green">&clubs;</span>-5<span style="color:orange">&diams;</span>-6<span style="color:green">&clubs;</span>-6<span style="color:orange">&diams;</span> asks for the King of either <span style="color:orange">&diams;</span> or <span style="color:blue">&spades;</span>.)
 
 When 4NT is a quantitative raise, 
 
@@ -285,23 +285,23 @@ When 4NT is a quantitative raise,
 
 ### Non-jump rebids
 
-After 1/d/ by Responder, **all** non-jump rebids **except 2NT** are non-forcing. Recall that Responder *can* bid again if he's maximum and his hand either fits very poorly but has own suit, or fits very well, in which case he bids game.
+After 1<span style="color:orange">&diams;</span> by Responder, **all** non-jump rebids **except 2NT** are non-forcing. Recall that Responder *can* bid again if he's maximum and his hand either fits very poorly but has own suit, or fits very well, in which case he bids game.
 
 Unless Opener is balanced, he bids his 5-card suit, then his 4-card suit, then his 3-card suit. In general, each partner prioritizes *patterning out* his hand.
 
 Suppose Opener is balanced: 
 
-1/c/-1/d/*: 
+1<span style="color:green">&clubs;</span>-1<span style="color:orange">&diams;</span>*: 
   - 1NT: 18-20 HCP
   - 2NT: 21-22 HCP
-    - Stayman and transfers apply since 1/d/* is artificial
+    - Stayman and transfers apply since 1<span style="color:orange">&diams;</span>* is artificial
 
 That is, **if Responder makes a positive response, systems are off**&mdash;even if Opener has a NT rebid. Both players bid naturally in a game-forcing auction.
 
 ### Jump Rebids
 
 
-#### After a 1/d/ response
+#### After a 1<span style="color:orange">&diams;</span> response
 
 A very good hand, generally 23+ PP with a good 6+ card suit. **It is forcing,** and partner's priority is to show a fit or a doubleton honour by raising, simply with 0-3 HCP, jumping with 4-6. *With no fit*, Responder simply shows a source of strength or a suit. 
 
@@ -315,7 +315,7 @@ Same as Responder's jump bids: single jump shows a solid suit, double jump shows
 ### At the 1-level
 
   - Pass: 0-6 HCP (note this is alertable)
-  - 2/c/: 7-8 HCP, at least an Ace or a King
+  - 2<span style="color:green">&clubs;</span>: 7-8 HCP, at least an Ace or a King
   - 1NT: 7-8 HCP with stopper in Opponent's suit
   - any other (non-jump) free bid: 4-6 HCP with a good 5+ card suit
   - Double: 9+ HCP
@@ -331,7 +331,7 @@ Same as Responder's jump bids: single jump shows a solid suit, double jump shows
 ### At the 3-level
 
   - Pass: 0-8 HCP
-  - Double: 9+ through 3/d/, penalty-oriented otherwise
+  - Double: 9+ through 3<span style="color:orange">&diams;</span>, penalty-oriented otherwise
   - Free (suit) bid: 7-8 HCP, good suit
   - 3NT: 8-9 HCP, 1+ stopper
 
@@ -339,14 +339,14 @@ Same as Responder's jump bids: single jump shows a solid suit, double jump shows
 
 A modification of the Lebensohl convention, Schenkensohl is available to Responder in the following auctions: 
 
-  - 1/c/-2/d/-Pass-Pass-Double
-  - 1/c/-2/h/-Pass-Pass-Double
-  - 1/c/-2/s/-Pass-Pass-Double
+  - 1<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>-Pass-Pass-Double
+  - 1<span style="color:green">&clubs;</span>-2<span style="color:red">&hearts;</span>-Pass-Pass-Double
+  - 1<span style="color:green">&clubs;</span>-2<span style="color:blue">&spades;</span>-Pass-Pass-Double
 
 In many situations&mdash;if not most&mdash;Opener will either bid his own suit or some level of Notrump. However, he may have a hand he deems worthy of a reopening Double. How should we respond? We need a way to tell partner whether we are at the lower end of our range (0-5 (bad)) or the higher ((good) 5-8)&mdash;hence borrowing from Lebensohl.
 
   - 3-level bid: 6-8 HCP, **good hand**,  4+cards in the suit bid
-  - 2NT: relay, **weak hand**; Opener **must** bid 3/c/, Responder passes or bids his 4+card suit
+  - 2NT: relay, **weak hand**; Opener **must** bid 3<span style="color:green">&clubs;</span>, Responder passes or bids his 4+card suit
   - 2NT then 3NT: 6-8 HCP, **exactly 1 full stopper**, no 4-card major
   - 3NT: 6-8 HCP, **no stopper**, no 4-card major
   - 3-level cuebid: 6-8 HCP, **partial stopper**, no 4-card major
