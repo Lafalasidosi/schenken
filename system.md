@@ -45,9 +45,7 @@ _All 1<span style="color:green">&clubs;</span> openings contain at least 19 PP._
 
 # Notrump Opening Bids
 
-## 1NT
-
-15-17 HCP, balanced hand
+- 1NT: 15-17 HCP, balanced hand
 
 There are 18-point hands we downgrade to 1NT; there are 14-point hands we may upgrade to 1NT (say, with a good 5-card suit, or in third seat). _We frequently open 1NT with a 5-card major._
 
@@ -61,7 +59,7 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
     - a hand which would invite 3NT, or
     - a transfer to 3<span style="color:green">&clubs;</span>.
 
-    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> suit with shortness in the last bid suit and slam interest.
+    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> with shortness in the last bid suit and slam interest.
 
 - 2NT is a transfer to 3<span style="color:orange">&diams;</span>, which he may follow up with 3<span style="color:red">&hearts;</span>, 3<span style="color:blue">&spades;</span>, or 4<span style="color:green">&clubs;</span> to show shortness and desire for slam as before.
 
@@ -106,7 +104,7 @@ To be clearer, we take the following from Gavin Wolpert:
 
 <p style="text-align: center;">
 "I think most experts just play 1NT-2<span style="color:green">&clubs;</span>-2X-2<span style="color:blue">&spades;</span> as any 5-card spade invite, since you get so much value in playing in 2<span style="color:blue">&spades;</span> rather than 2NT when partner declines. The expert standard approach these days is to play that all hands with 5 spades and an invite start by bidding Stayman, regardless of whether they have 4 Hearts.
-After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:orange">&hearts;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
+After 1NT-2<span style="color:green">&clubs;</span>-2<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>, 2<span style="color:blue">&spades;</span> is invitational with 5 Spades.
 Then opener does the following:
 2NT = I accept your invitation but I only have a doubleton spade (this gives room for responder to retreat to 3 of a minor when they have a weakish 5-5 invite); 
 3<span style="color:blue">&spades;</span> = I have a fit and a decent hand;
@@ -117,21 +115,12 @@ May 31, 2023"</p>
 
 - Impossible Major at the 3-level.
 
-When Opener answers Stayman with a 4-card major, Responder bids 3 of the other major to show a fit with Opener and interest in slam&mdash;the "Impossible Major" bid. 
+When Opener answers Stayman with a 4-card major, Responder bids 3 of the other major to show a fit with Opener and interest in slam. 
 
 - Corollary: 1NT, 2<span style="color:green">&clubs;</span>, 2<span style="color:orange">&diams;</span>, **4NT** is a quantitative invite to 6NT, not a keycard ask. <a href="https://www.nxtbook.com/acbl/bridgebulletin/2022_04/index.php#/p/64">Bridge Bulletin - Consults with the Doctor - The many faces of 4NT (requires subscription/ACBL login)</a>.
 
+## Dealing with Direct Interference
 
-### Superaccepts of a Jacoby Transfer
-
-When Responder makes a Jacoby transfer at the 2-level, a bid of 2NT shows 3-card support and a maximum; 3M shows a max with 4-card support.
-
-
-
-
-### Dealing with Direct Interference
-
-We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz</a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
 We play "<a href="https://www.larryco.com/bridge-articles/lebensohl-stolen-bid-doubles-and-interference-over-1nt">Berkowitz</a>" when the opponents make a direct overcall of our 1NT. All systems are on over Double or 2<span style="color:green">&clubs;</span>; 2<span style="color:green">&clubs;</span> and Double would mean Stayman respectively.
 
 If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
@@ -139,35 +128,200 @@ If Overcaller says 2<span style="color:orange">&diams;</span> or higher:
 - 2X is weak and to play, 
 - 2NT is natural but doesn't promise a stopper, 
 - Double is takeout for the other suits, and
-- a cue bid is Game-forcing Stayman.
+- a cue bid is Game-forcing Stayman,
 
-However, Texas transfers still apply.
-
-
-### 2NT
-
-11-16 HCP, 5-5 or better in the Minors 
-
-- 4<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span> response: 1430 for the suit bid
-
-However Opener responds, we play Minwood: bid 5 of the _other_ minor to ask for _specific_ Kings.
-
-### 3NT
-
-Gambling: solid 7-card suit in <span style="color:orange">&diams;</span>, <span style="color:red">&hearts;</span>, or <span style="color:blue">&spades;</span>. 4<span style="color:green">&clubs;</span> by Responder asks Opener to bid his suit.
+however, Texas transfers still apply.
 
 
+### A note on Superaccepts
+
+After a 2-level Jacoby Transfer, Opener may show his liking for Responder's suit with the following: 
+
+- 2NT: Balanced maximum with 3-card support
+
+- 3 of Responder's major: maximum with 4-card support
+
+## Other Notrump Opening Bids
+
+- 2NT: 5-5 or better in the minors, 11-16 HCP. 
+
+  - 4<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span> is 1430 for the suit bid; 5 of the other minor is the _specific King ask._
+
+- 3NT: "Gambling," solid 7-card <span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> suit
+
+  - 4<span style="color:green">&clubs;</span> asks Opener to bid his suit
 
 
+# Major Suit Openings 
+
+We frequently open 4-card majors in all seats **and may have a longer minor when we do so.** When you have a choice between opening 1<span style="color:orange">&diams;</span> or 1 of a major, **give preference to a lead-directing bid;** we do not open a 4-card major just because we have one&mdash;1<span style="color:red">&hearts;</span> or 1<span style="color:blue">&spades;</span> invites partner to lead that suit if we lose the auction _and_ to upgrade his hand if he holds one of the top three honours in the suit. 
+
+One exception to the lead-directing opening bid is when one holds a 5-card <span style="color:blue">&spades;</span> suit and a good 4-card <span style="color:red">&hearts;</span> suit; open 1<span style="color:blue">&spades;</span> so as to minimize rebid problems.
+
+  ## Responses to 1<span style="color:red">&hearts;</span> or 1<span style="color:blue">&spades;</span>
+
+  - 1NT: 8-10 HCP balanced or 7 HCP with stiff or void in Opener's suit
+
+  - Single raise: 9-11 PP
+
+  - 2<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span>: 5+ <span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span>, 11+ HCP or distributional 10+ 
+
+  - Double raise: 12-14 PP
+
+  - 2NT: 11-12 HCP balanced
+
+  - 3<span style="color:green">&clubs;</span>: **by an unpassed hand** is a our Game-forcing raise, showing 4-card support or better together with at least 16 PP. _3NT is not an option_, we will always play in at least 4 of our major. Priority for Opener is to show shortness, then to show whether he's maximum or minimum. These agreements are on through 5<span style="color:red">&hearts;</span> should Opponent(s) interfere:
+
+    - 3 of non-fit suit: 1- cards in that suit
+    - 3 of agreed major: maximum values, no shortness
+    - 3NT: minimum values, no shortness
+    - A rebid of 3 of agreed suit or 3NT by Responder is _temporizing;_ Opener is asked to start cue bidding his lowest first-round control.
+
+  - 3<span style="color:orange">&diams;</span>: **Strong Jump Shift**, see <a href="https://www.kwbridge.com/bb/b_jshift.htm">this </a> article for more details. 6+<span style="color:orange">&diams;</span> with 2/3 top honours and 17+HCP. Opener's first obligation is to bid 4<span style="color:orange">&diams;</span> with a doubleton Ace, King, or Queen. His next priority is to rebid his suit if he opened with at least 5 cards, next a side four-card suit.
+    - 4<span style="color:orange">&diams;</span>: doubleton A,K, or Q.
+    - 3 of opened suit: 5+ cards
+    - 3 of other major or 4<span style="color:green">&clubs;</span>: 4+ cards in bid suit.
+      - any suit: shortness and a fit with Opener 
+
+  3NT: 13-15 HCP balanced
+  
+  _Note: with 3-card support for Opener and shortness somewhere, even a doubleton, we prefer to show support rather than bid NT; 4333 shape is an exception_.
+
+### Two-Way Reverse Drury
+
+When Opener says 1<span style="color:red">&hearts;</span> or 1<span style="color:blue">&spades;</span> in 3<sup>rd</sup> seat and 4<sup>th</sup> chair passes, 2<span style="color:green">&clubs;</span> is invitational (12-14 PP) with 3-card support, and 2<span style="color:orange">&diams;</span> is invitational with 4-card support.
+
+This is to say, 4<sup>th</sup> chair openings are sound, only 3<sup>rd</sup> chair openings can be a little light.
+
+### After Overcall
+
+If unpassed:
+  - Simple raise: 9-11 PP
+  - Cue bid: Game-forcing raise (as 3<span style="color:green">&clubs;</span>)
+  - Double raise: 12-14 PP
+
+If passed: 
+  - Simple raise: 9-11 PP
+  - Cue bid: 12-14 PP
+  - Double raise: 5+ cards, 8-PP
 
 
+### After a Takeout Double
+
+If unpassed:
+  - 2<span style="color:blue">&spades;</span>/3<span style="color:red">&hearts;</span> (jump cue in other major): forcing raise
+  - 2NT: invitational (12-14 PP) with 4-card support
+  - 1<span style="color:blue">&spades;</span>/2<span style="color:red">&hearts;</span> (cue bid of other major): invitational with 3-card support with a doubleton or stiff (remember that Redouble is an option; this kind of raise shows a ruffing value)
+  - 3<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span>: 8-10 HCP, good 5+card suit, 3-card support for Opener
+  - simple raise: 9-11 PP, 3- or 4-card support
+  - jump raise: preemptive
+  - Redouble: 10+ HCP, implies no fit, interest in penalty double
+
+If passed:
+  - 2<span style="color:blue">&spades;</span>/3<span style="color:red">&hearts;</span> (jump cue in other major): invitational with 4-card support
+  - 2NT: Unusual for the minors with only 8-10 points
+  -  1<span style="color:blue">&spades;</span>/2<span style="color:red">&hearts;</span> (cue bid of other major): invitational with 3-card support
+  - simple raise: 9-11 PP
+  - jump raise: preemptive
+
+  ## Special rebid by Opener
+
+  Suppose the auction goes 1<span style="color:orange">&diams;</span>-1M:
+
+  - 3<span style="color:green">&clubs;</span>: game-forcing raise of Responder's major.
+
+  Opener is usually showing a good <span style="color:orange">&diams;</span> suit or an Ace-rich hand which reevealuates after the 1M bid to at least 18 PP. Think of Opener saying with this bid, "Partner, your response makes my hand a 1<span style="color:green">&clubs;</span> opener."
+
+  Responder bids the same way Opener does in a 1M-3<span style="color:green">&clubs;</span> auction.
+
+# Minor Suit Openings
+
+As mentioned in the introductory comments, the rules for responses to 1<span style="color:green">&clubs;</span> and 1<span style="color:orange">&diams;</span> are very different. We start with 1<span style="color:green">&clubs;</span>. Recall that this bid shows 17+HCP, sometimes 14+, but *always* 19+PP.
+
+## Responses to 1<span style="color:green">&clubs;</span>
+
+  - 1<span style="color:orange">&diams;</span>: 0-6 HCP. Can pass any non-jump rebid by Opener; can raise or bid own suit with 4-6 HCP if passing a non-jump rebid is undesirable (e.g. Opener rebids a simple 1<span style="color:red">&hearts;</span> but you're void and have 5 Spades with 4-6 HCP; bid 1<span style="color:blue">&spades;</span>).
+  
+  _However_, if Responder's hand reevaluates to 9+PP after Opener's rebid, jump to game in his suit.
+
+  - 2<span style="color:green">&clubs;</span>: 7-8 HCP, at least one Ace or King (with 7-8 points in Quacks, bid 1<span style="color:orange">&diams;</span>). Forcing to game _most of the time_ (e.g. definitely forcing when Opener rebids 2NT).
+
+  **All other responses are game-forcing**
+  - 1<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>: 5+ cards, 9+ HCP
+
+Opener should not raise Responder's suit immediately if he has his own 5+card suit, but raise if Responder himself doesn't. An immediate raise of Responder's suit implies 4+ card support. 
+
+Responder should bid naturally, *patterning out* his hand; a NT rebid by responder shows 5332 shape.
+
+  - 1NT: 9-11 HCP, balanced
+  - 2NT: 12-14 HCP, balanced
+    - 2/3<span style="color:green">&clubs;</span>:  Stayman; Impossible Major applies
+    - 4<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 1430 for that suit
+    - 4NT: quantitative invite to 6NT
+    - other bids by Opener are natural
+  - 3NT: 15+ HCP balanced
+    - 4<span style="color:green">&clubs;</span> is Stayman; Impossible Major
+    - 4<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/5<span style="color:green">&clubs;</span>: 1430 for that suit
+    - 4NT: quantitative invite to 6NT
+  
+### Special note on 1430/quantitative raise auctions
+
+**Bidding 5NT in a 1430 auction promises all key cards and the Queen of trumps are accounted for.** It asks partner to show his lowest unbid King. Subsequent bids below the agreed suit ask partner to bid another King, if he has one. 
+
+If the Queen Ask receives a response at the 6-level, showing the Queen and the King of the suit bid, the cheapest response below the agreed suit asks partner if he has anything more (e.g. assuming /h/ are trump, ...4NT-5<span style="color:green">&clubs;</span>-5<span style="color:orange">&diams;</span>-6<span style="color:green">&clubs;</span>-6<span style="color:orange">&diams;</span> asks for the King of either <span style="color:orange">&diams;</span> or <span style="color:blue">&spades;</span>.)
+
+When 4NT is a quantitative raise, 
+
+  - 5<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span>: 4-card suit, inviting small slam if partner has 4-card support; otherwise correct to 5NT
+  - 6<span style="color:green">&clubs;</span>/<span style="color:orange">&diams;</span>: 5-card suit, invites partner to pass with support or to correct to 6NT.
+
+  ### Jump responses to 1<span style="color:green">&clubs;</span>
+
+  A single jump (except 1<span style="color:green">&clubs;</span>-3<span style="color:green">&clubs;</span>, which is 9+HCP, 5+<span style="color:green">&clubs;</span>) shows 9+ HCP and a *solid* 6+ card suit. AKQJx is admissable, but Responder should have 6 tricks. 
+
+  A double jump shows 11+ HCP with a long but *broken* suit (missing 1 of the 4 top honours). Again, Responder should have a 6+ card suit so that if Opener happens to have the missing honour, he can consider the suit solid and count tricks.
+
+## Rebids by Opener
+
+### Non-jump rebids
+
+After 1/d/ by Responder, **all** non-jump rebids **except 2NT** are non-forcing. Recall that Responder *can* bid again if he's maximum and his hand either fits very poorly but has own suit, or fits very well, in which case he bids game.
+
+Unless Opener is balanced, he bids his 5-card suit, then his 4-card suit, then his 3-card suit. In general, each partner prioritizes *patterning out* his hand.
+
+Suppose Opener is balanced: 
+
+1/c/-1/d/*: 
+  - 1NT: 18-20 HCP
+  - 2NT: 21-22 HCP
+    - Stayman and transfers apply since 1/d/* is artificial
+
+That is, **if Responder makes a positive response, systems are off**&mdash;even if Opener has a NT rebid. Both players bid naturally in a game-forcing auction.
+
+### Jump Rebids
 
 
+#### After a 1/d/ response
+
+A very good hand, generally 23+ PP with a good 6+ card suit. **It is forcing,** and partner's priority is to show a fit or a doubleton honour by raising, simply with 0-3 HCP, jumping with 4-6. *With no fit*, Responder simply shows a source of strength or a suit. 
+
+#### After a positive response
+
+Same as Responder's jump bids: single jump shows a solid suit, double jump shows a broken suit.
 
 
+## Dealing with Interference
 
+### At the 1-level
 
-
+  - Pass: 0-6 HCP (note this is alertable)
+  - 2/c/: 7-8 HCP, at least an Ace or a King
+  - 1NT: 7-8 HCP with stopper in Opponent's suit
+  - any other (non-jump) free bid: 4-6 HCP with a good 5+ card suit
+  - Double: 9+ HCP
+  - Cue bid: 9+ HCP and shortness in Opponent's suit
+  
+### At the 2-level
 
 
 
