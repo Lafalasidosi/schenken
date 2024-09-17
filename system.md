@@ -247,7 +247,7 @@ As mentioned in the introductory comments, the rules for responses to 1<span sty
   - 2<span style="color:green">&clubs;</span>: 7-8 HCP, at least one Ace or King (with 7-8 points in Quacks, bid 1<span style="color:orange">&diams;</span>). Forcing to game _most of the time_ (e.g. definitely forcing when Opener rebids 2NT).
 
   **All other responses are game-forcing**
-  - 1<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>: 5+ cards, 9+ HCP
+  - 1<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>/3/c/: 5+ cards, 9+ HCP
 
 Opener should not raise Responder's suit immediately if he has his own 5+card suit, but raise if Responder himself doesn't. An immediate raise of Responder's suit implies 4+ card support. 
 
@@ -352,8 +352,11 @@ In many situations&mdash;if not most&mdash;Opener will either bid his own suit o
   - 3-level cuebid: 6-8 HCP, **partial stopper**, no 4-card major
   - 2NT-then-3-level-cuebid: 6-8 HCP, partial stopper, **4 of the other major if Overcaller bid one**. 
 
-  
+### Responsive Double by Responder through 3/s/ after 1/c/ Opening
 
+  Suppose the auction goes such that Partner opens 1/c/, you either bid 1/d/ or Pass to show 0-6 HCP, and Opponent(s) bid(s) such that Opener must bid at the 3-level to show his suit&mdash;and he does, say, 3/h/. RHO bids 3/s/ and you have a maximum (4-6 HCP) hand and 4-4 or better in the minor suits. 
+
+  Double RHO's bid. This is a "Responsive" Double. Whereas we normally play standard Responsive Doubles through 2/s/, but when you or Partner opens 1/c/, we play this Double through 3/s/.
 
 
 
