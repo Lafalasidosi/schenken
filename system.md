@@ -247,7 +247,7 @@ As mentioned in the introductory comments, the rules for responses to 1<span sty
   - 2<span style="color:green">&clubs;</span>: 7-8 HCP, at least one Ace or King (with 7-8 points in Quacks, bid 1<span style="color:orange">&diams;</span>). Forcing to game _most of the time_ (e.g. definitely forcing when Opener rebids 2NT).
 
   **All other responses are game-forcing**
-  - 1<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>/3/c/: 5+ cards, 9+ HCP
+  - 1<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>/3<span style="color:green">&clubs;</span>: 5+ cards, 9+ HCP
 
 Opener should not raise Responder's suit immediately if he has his own 5+card suit, but raise if Responder himself doesn't. An immediate raise of Responder's suit implies 4+ card support. 
 
@@ -352,70 +352,70 @@ In many situations&mdash;if not most&mdash;Opener will either bid his own suit o
   - 3-level cuebid: 6-8 HCP, **partial stopper**, no 4-card major
   - 2NT-then-3-level-cuebid: 6-8 HCP, partial stopper, **4 of the other major if Overcaller bid one**. 
 
-### Responsive Double by Responder through 3/s/ after 1/c/ Opening
+### Responsive Double by Responder through 3<span style="color:blue">&spades;</span> after 1<span style="color:green">&clubs;</span> Opening
 
-  Suppose the auction goes such that Partner opens 1/c/, you either bid 1/d/ or Pass to show 0-6 HCP, and Opponent(s) bid(s) such that Opener must bid at the 3-level to show his suit&mdash;and he does, say, 3/h/. RHO bids 3/s/ and you have a maximum (4-6 HCP) hand and 4-4 or better in the minor suits. 
+  Suppose the auction goes such that Partner opens 1<span style="color:green">&clubs;</span>, you either bid 1<span style="color:orange">&diams;</span> or Pass to show 0-6 HCP, and Opponent(s) bid(s) such that Opener must bid at the 3-level to show his suit&mdash;and he does, say, 3<span style="color:red">&hearts;</span>. RHO bids 3<span style="color:blue">&spades;</span> and you have a maximum (4-6 HCP) hand and 4-4 or better in the minor suits. 
 
-  Double RHO's bid. This is a "Responsive" Double. Whereas we normally play standard Responsive Doubles through 2/s/, but when you or Partner opens 1/c/, we play this Double through 3/s/.
+  Double RHO's bid. This is a "Responsive" Double. Whereas we normally play standard Responsive Doubles through 2<span style="color:blue">&spades;</span>, but when you or Partner opens 1<span style="color:green">&clubs;</span>, we play this Double through 3<span style="color:blue">&spades;</span>.
 
 
 
-## The 1/d/ Opening
+## The 1<span style="color:orange">&diams;</span> Opening
 
-Shows 3+/d/ and 11-16 HCP. Note that if we have 15-16 HCP then we are unbalanced, since we would prefer to open 1NT. We also prefer to open a good 4-card minor over 1/d/, since it takes more bidding room from the Opponents and is lead-directing.
+Shows 3+<span style="color:orange">&diams;</span> and 11-16 HCP. Note that if we have 15-16 HCP then we are unbalanced, since we would prefer to open 1NT. We also prefer to open a good 4-card minor over 1<span style="color:orange">&diams;</span>, since it takes more bidding room from the Opponents and is lead-directing.
 
-With a weak 5-card /c/ suit and 3 /d/s, we open 1/d/ and immediately rebid 2/c/ (or 3/c/ if Responder makes an Inverted /d/ raise). This will become more clear after the section on opening 2/c/.
+With a weak 5-card <span style="color:green">&clubs;</span> suit and 3 <span style="color:orange">&diams;</span>s, we open 1<span style="color:orange">&diams;</span> and immediately rebid 2<span style="color:green">&clubs;</span> (or 3<span style="color:green">&clubs;</span> if Responder makes an Inverted <span style="color:orange">&diams;</span> raise). This will become more clear after the section on opening 2<span style="color:green">&clubs;</span>.
 
-## Responses to 1/d/
+## Responses to 1<span style="color:orange">&diams;</span>
 
 **Remember:** Responder needs 8+ HCP to bid a new suit at the 1-level or 1NT.
 
 - 1M:     8+ HCP, 4+ cards in the major bid.
-- 1NT:    8-10 HCP balanced (might be 7-10 if holding 1-/d/)
-- 2/d/:   **by an unpassed hand** is "Inverted": 5+/d/, 11+ HCP, denies 4-card major. A cue bid also shows 11+ HCP and a /d/ fit. The Inverted 2/d/ raise is **off if a passed hand or Opponents interfere.** 
+- 1NT:    8-10 HCP balanced (might be 7-10 if holding 1-<span style="color:orange">&diams;</span>)
+- 2<span style="color:orange">&diams;</span>:   **by an unpassed hand** is "Inverted": 5+<span style="color:orange">&diams;</span>, 11+ HCP, denies 4-card major. A cue bid also shows 11+ HCP and a <span style="color:orange">&diams;</span> fit. The Inverted 2<span style="color:orange">&diams;</span> raise is **off if a passed hand or Opponents interfere.** 
 - 2M:     Weak Jump Shift; 7- HCP and a good 6-card suit
 - 2NT:    11-12 HCP balanced, may have 4-card major.
   - Opener may bid his own 4-card major at the 3-level, inviting Game in that major or forcing to 3NT.
-- 3/d/:   Constructive, showing 5+/d/, normally 8-10 HCP (but can be 7 with good shape and no wasted HCP). Denies a 4-card major, usually unbalanced.
-- 3/c/:   Strong Jump Shift. Here's <a href="https://www.kwbridge.com/bb/b_jshift.htm">this </a> article again.
+- 3<span style="color:orange">&diams;</span>:   Constructive, showing 5+<span style="color:orange">&diams;</span>, normally 8-10 HCP (but can be 7 with good shape and no wasted HCP). Denies a 4-card major, usually unbalanced.
+- 3<span style="color:green">&clubs;</span>:   Strong Jump Shift. Here's <a href="https://www.kwbridge.com/bb/b_jshift.htm">this </a> article again.
 - 3NT:    13-15 HCP balanced, may have a 4-card major
 
-## The Inverted /d/ Auction
+## The Inverted <span style="color:orange">&diams;</span> Auction
 
-After 1/d/, 2/d/, we prioritize finding 3NT:
+After 1<span style="color:orange">&diams;</span>, 2<span style="color:orange">&diams;</span>, we prioritize finding 3NT:
 
 - 2M:     (by Opener) shows a stopper in the major bid
 - 2NT:    stoppers in both majors
-- 3/c/:   Opened with a /c/ suit not worth opening. Does not deny stoppers in other suits. Responder must reevaluate his hand to consider passing, bidding 3/d/ to play, showing a major suit stopper, or bidding 3NT.
+- 3<span style="color:green">&clubs;</span>:   Opened with a <span style="color:green">&clubs;</span> suit not worth opening. Does not deny stoppers in other suits. Responder must reevaluate his hand to consider passing, bidding 3<span style="color:orange">&diams;</span> to play, showing a major suit stopper, or bidding 3NT.
 
-### Fourth Suit Forcing (in an Inverted /d/ Auction)
+### Fourth Suit Forcing (in an Inverted <span style="color:orange">&diams;</span> Auction)
 
 Shows a **partial stopper** in the fourth suit. For example, 
 
-- 1/d/, 2/d/, 2NT, 3/c/
+- 1<span style="color:orange">&diams;</span>, 2<span style="color:orange">&diams;</span>, 2NT, 3<span style="color:green">&clubs;</span>
 
-shows a partial stopper in /c/. Opener may retreat to 3/d/ or bid 3NT with at least a partial /c/ stopper himself.
+shows a partial stopper in <span style="color:green">&clubs;</span>. Opener may retreat to 3<span style="color:orange">&diams;</span> or bid 3NT with at least a partial <span style="color:green">&clubs;</span> stopper himself.
 
 #### "One not, two got"
 
-If there is **one** danger suit&mdash;e.g. 1/d/-Pass-2/d/-2/s/, in which case /s/ is the only danger suit&mdash;a Cue Bid of the Opponent's suit **denies** a stopper and asks Partner to bid 3NT with a full one.
+If there is **one** danger suit&mdash;e.g. 1<span style="color:orange">&diams;</span>-Pass-2<span style="color:orange">&diams;</span>-2<span style="color:blue">&spades;</span>, in which case <span style="color:blue">&spades;</span> is the only danger suit&mdash;a Cue Bid of the Opponent's suit **denies** a stopper and asks Partner to bid 3NT with a full one.
 
 If there are **two** danger suits, bidding one **shows** a stopper in it. Again, bidding the fourth suit shows a **partial** only.
 
 #### Special bid
 
-If the Opponents overcall 1/d/ with 1NT, Responder plays Cappelletti:
+If the Opponents overcall 1<span style="color:orange">&diams;</span> with 1NT, Responder plays Cappelletti:
 
 - Double: Penalty
-- 2/c/:   One-suited hand
-- 2/d/:   Both majors (4-4 or better)
-- 2/h/:   /h/ and a minor (4+M-5m)
-- 2/s/:   /s/ and a minor (4+M-5m)
+- 2<span style="color:green">&clubs;</span>:   One-suited hand
+- 2<span style="color:orange">&diams;</span>:   Both majors (4-4 or better)
+- 2<span style="color:red">&hearts;</span>:   <span style="color:red">&hearts;</span> and a minor (4+M-5m)
+- 2<span style="color:blue">&spades;</span>:   <span style="color:blue">&spades;</span> and a minor (4+M-5m)
 - 2NT:    5-5 or better in the minors
 
 #### The SOS Redouble
 
-Suppose the Auction goes 1/d/-Double-Pass-Pass to you. Rightie has a stack of Diamonds. Opener Redoubles to ask Partner to bid his best major; Partner passes with 4+/d/.
+Suppose the Auction goes 1<span style="color:orange">&diams;</span>-Double-Pass-Pass to you. Rightie has a stack of Diamonds. Opener Redoubles to ask Partner to bid his best major; Partner passes with 4+<span style="color:orange">&diams;</span>.
 
 
 
