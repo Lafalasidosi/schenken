@@ -360,6 +360,66 @@ In many situations&mdash;if not most&mdash;Opener will either bid his own suit o
 
 
 
+## The 1/d/ Opening
+
+Shows 3+/d/ and 11-16 HCP. Note that if we have 15-16 HCP then we are unbalanced, since we would prefer to open 1NT. We also prefer to open a good 4-card minor over 1/d/, since it takes more bidding room from the Opponents and is lead-directing.
+
+With a weak 5-card /c/ suit and 3 /d/s, we open 1/d/ and immediately rebid 2/c/ (or 3/c/ if Responder makes an Inverted /d/ raise). This will become more clear after the section on opening 2/c/.
+
+## Responses to 1/d/
+
+**Remember:** Responder needs 8+ HCP to bid a new suit at the 1-level or 1NT.
+
+- 1M:     8+ HCP, 4+ cards in the major bid.
+- 1NT:    8-10 HCP balanced (might be 7-10 if holding 1-/d/)
+- 2/d/:   **by an unpassed hand** is "Inverted": 5+/d/, 11+ HCP, denies 4-card major. A cue bid also shows 11+ HCP and a /d/ fit. The Inverted 2/d/ raise is **off if a passed hand or Opponents interfere.** 
+- 2M:     Weak Jump Shift; 7- HCP and a good 6-card suit
+- 2NT:    11-12 HCP balanced, may have 4-card major.
+  - Opener may bid his own 4-card major at the 3-level, inviting Game in that major or forcing to 3NT.
+- 3/d/:   Constructive, showing 5+/d/, normally 8-10 HCP (but can be 7 with good shape and no wasted HCP). Denies a 4-card major, usually unbalanced.
+- 3/c/:   Strong Jump Shift. Here's <a href="https://www.kwbridge.com/bb/b_jshift.htm">this </a> article again.
+- 3NT:    13-15 HCP balanced, may have a 4-card major
+
+## The Inverted /d/ Auction
+
+After 1/d/, 2/d/, we prioritize finding 3NT:
+
+- 2M:     (by Opener) shows a stopper in the major bid
+- 2NT:    stoppers in both majors
+- 3/c/:   Opened with a /c/ suit not worth opening. Does not deny stoppers in other suits. Responder must reevaluate his hand to consider passing, bidding 3/d/ to play, showing a major suit stopper, or bidding 3NT.
+
+### Fourth Suit Forcing (in an Inverted /d/ Auction)
+
+Shows a **partial stopper** in the fourth suit. For example, 
+
+- 1/d/, 2/d/, 2NT, 3/c/
+
+shows a partial stopper in /c/. Opener may retreat to 3/d/ or bid 3NT with at least a partial /c/ stopper himself.
+
+#### "One not, two got"
+
+If there is **one** danger suit&mdash;e.g. 1/d/-Pass-2/d/-2/s/, in which case /s/ is the only danger suit&mdash;a Cue Bid of the Opponent's suit **denies** a stopper and asks Partner to bid 3NT with a full one.
+
+If there are **two** danger suits, bidding one **shows** a stopper in it. Again, bidding the fourth suit shows a **partial** only.
+
+#### Special bid
+
+If the Opponents overcall 1/d/ with 1NT, Responder plays Cappelletti:
+
+- Double: Penalty
+- 2/c/:   One-suited hand
+- 2/d/:   Both majors (4-4 or better)
+- 2/h/:   /h/ and a minor (4+M-5m)
+- 2/s/:   /s/ and a minor (4+M-5m)
+- 2NT:    5-5 or better in the minors
+
+#### The SOS Redouble
+
+Suppose the Auction goes 1/d/-Double-Pass-Pass to you. Rightie has a stack of Diamonds. Opener Redoubles to ask Partner to bid his best major; Partner passes with 4+/d/.
+
+
+
+
 <span style="color:blue">&spades;</span>
 <span style="color:red">&hearts;</span>
 <span style="color:orange">&diams;</span>
