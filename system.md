@@ -154,7 +154,7 @@ After a 2-level Jacoby Transfer, Opener may show his liking for Responder's suit
 
 # Major Suit Openings 
 
-We frequently open 4-card majors in all seats **and may have a longer minor when we do so.** When you have a choice between opening 1<span style="color:orange">&diams;</span> or 1 of a major, **give preference to a lead-directing bid;** we do not open a 4-card major just because we have one&mdash;1<span style="color:red">&hearts;</span> or 1<span style="color:blue">&spades;</span> invites partner to lead that suit if we lose the auction _and_ to upgrade his hand if he holds one of the top three honours in the suit. 
+Opening bids at the 1-level (except 1<span style="color:green">&clubs;</span> and 1NT) limit the hand to 11-16 HCP. We frequently open 4-card majors in all seats **and may have a longer minor when we do so.** When you have a choice between opening 1<span style="color:orange">&diams;</span> or 1 of a major, **give preference to a lead-directing bid;** we do not open a 4-card major just because we have one&mdash;1<span style="color:red">&hearts;</span> or 1<span style="color:blue">&spades;</span> invites partner to lead that suit if we lose the auction _and_ to upgrade his hand if he holds one of the top three honours in the suit. 
 
 One exception to the lead-directing opening bid is when one holds a 5-card <span style="color:blue">&spades;</span> suit and a good 4-card <span style="color:red">&hearts;</span> suit; open 1<span style="color:blue">&spades;</span> so as to minimize rebid problems.
 
@@ -416,6 +416,54 @@ If the Opponents overcall 1<span style="color:orange">&diams;</span> with 1NT, R
 #### The SOS Redouble
 
 Suppose the Auction goes 1<span style="color:orange">&diams;</span>-Double-Pass-Pass to you. Rightie has a stack of Diamonds. Opener Redoubles to ask Partner to bid his best major; Partner passes with 4+<span style="color:orange">&diams;</span>.
+
+## The 2<span style="color:green">&clubs;</span> Opening
+
+Shows 11-16 HCP and normally 6+<span style="color:green">&clubs;</span>, but could show a very good 5-card <span style="color:green">&clubs;</span> suit. We do not normally open 2<span style="color:green">&clubs;</span> with a 5-card suit and a minimum hand if vulnerable or Partner is a passed hand&mdash;even if the hand is worth 14 PP.
+
+
+## Responses to 2<span style="color:green">&clubs;</span>
+
+- 2<span style="color:orange">&diams;</span>: forcing; has a 4-card major; asks Opener for one (like Stayman)
+  - 2NT: no 4-card major; extra values in the unbid suits
+    - 3<span style="color:red">&hearts;</span><span style="color:blue">&spades;</span>: 12+ HCP; **forcing**
+  - 3<span style="color:green">&clubs;</span>: total minimum
+- 2<span style="color:orange">&diams;</span> followed by 3<span style="color:orange">&diams;</span>: 6+<span style="color:orange">&diams;</span>, 1-<span style="color:green">&clubs;</span>, 8-11 HCP
+- 2<span style="color:orange">&diams;</span> followed by 4<span style="color:green">&clubs;</span>: 1430 for <span style="color:green">&clubs;</span>; Queen Ask applies; 5<span style="color:orange">&diams;</span> asks for specific Kings
+- 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 5+ card suit, 8-11 HCP
+- 2NT: 11-12 HCP balanced
+- 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 12+ HCP, 5+ cards; forcing
+  - Opener should raise with 3+ card support, but can opt for 3NT or retreat to 4<span style="color:green">&clubs;</span>
+  - If Responder's bid were 3<span style="color:orange">&diams;</span>, Opener should bid a major suit stopper if he has only one
+- 3<span style="color:green">&clubs;</span>/5<span style="color:green">&clubs;</span>: to play
+- 4<span style="color:green">&clubs;</span>: invitational to 5<span style="color:green">&clubs;</span>
+
+## Dealing with Interference at the 2-Level
+
+### Direct Overcall
+
+We use negative doubles through 4<span style="color:blue">&spades;</span>. If Overcaller bid 2<span style="color:orange">&diams;</span>, Double conveys "stolen bid" and Opener responds as above. 
+
+### Takeout Double
+
+Redouble with 10+ HCP, bid a (natural) suit with fewer. If Advancer then bids a suit, Opener bids: 
+
+- Double: 4+ cards in Advancer's suit
+- Another suit: 4+ cards in bid suit
+- Pass: forcing; we have the majority of the points
+
+### 4th-seat Overcaller
+
+Auction goes 2<span style="color:green">&clubs;</span>-Pass-2<span style="color:orange">&diams;</span>-2M.
+
+- Double: penalty; suggests 4 of Overcaller's suit
+- Pass: forcing; 4 of the unbid major
+- 2NT: 1+ stopper
+- 3<span style="color:orange">&diams;</span>: 4<span style="color:orange">&diams;</span>
+- 3<span style="color:green">&clubs;</span>: denies other options
+
+
+
 
 
 
