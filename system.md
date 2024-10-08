@@ -463,6 +463,48 @@ Auction goes 2<span style="color:green">&clubs;</span>-Pass-2<span style="color:
 - 3<span style="color:green">&clubs;</span>: denies other options
 
 
+## The 2<span style="color:orange">&diams;</span> Opening
+
+"The two-diamond opening is a great bid when properly used. As such you won't get too many of them. When you do you should never get a bad result. And sometimes you will get to slam contracts that are not possible using Standard American."
+-Howard Schenken
+
+This bid shows one of two types of hands: 
+
+1. a "...freakish game-going hand that that includes slam possibilities, or
+2.  a balanced hand with 23+ HCP
+
+
+### What's a "Freakish" hand?
+
+Specifically, this hand is strong and one-suited. The suit should be strong enough to lose at most one trick *opposite a void*. Normal distribution of outsanding cards in Opponents' hands is assumed (e.g. holding a solid 7-card suit, you should hold such honours that you'll lose no more than one trick if one Opponent has 4 of your suit and the other has 3).
+
+#### Responses to 2<span style="color:orange">&diams;</span>
+
+- 2<span style="color:red">&hearts;</span>: no Aces
+- 2<span style="color:blue">&spades;</span>: A<span style="color:blue">&spades;</span>
+- 2NT: A<span style="color:red">&hearts;</span>
+- 3<span style="color:green">&clubs;</span>: A<span style="color:green">&clubs;</span>
+- 3<span style="color:orange">&diams;</span>: A<span style="color:orange">&diams;</span>
+- 3<span style="color:red">&hearts;</span>: A<span style="color:red">&hearts;</span> & A<span style="color:orange">&diams;</span>
+- 3<span style="color:blue">&spades;</span>: A<span style="color:blue">&spades;</span> & A<span style="color:red">&hearts;</span>
+- 3NT: A<span style="color:blue">&spades;</span> & A<span style="color:orange">&diams;</span> or A<span style="color:red">&hearts;</span> & A<span style="color:green">&clubs;</span> (two non-touching Aces)
+- 4<span style="color:green">&clubs;</span>: A<span style="color:green">&clubs;</span> & A<span style="color:blue">&spades;</span> (yes, these two are "touching")
+- 4<span style="color:orange">&diams;</span>: A<span style="color:orange">&diams;</span> & A<span style="color:green">&clubs;</span>
+- 4NT: 3 Aces
+
+If Opener follows any of these responses with his cheapest suit bid, he's asking for Kings and the further responses follow a similar formula. For example, 2<span style="color:orange">&diams;</span>, 2<span style="color:blue">&spades;</span> showing the A<span style="color:blue">&spades;</span>; 3<span style="color:green">&clubs;</span> by Opener asks Responder to show his Kings&mdash;3<span style="color:orange">&diams;</span> denies any, 3NT shows the K<span style="color:orange">&diams;</span>, and so on.
+
+Opener **must** have at least one Ace for these responses to be helpful. **Never forget that unless Opener rebids some level of Notrump, he is the captain.** It doesn't matter how good Responder's hand is, or whether he thinks he can correct to Notrump. 
+
+#### The exception
+
+Suppose the auction goes 2<span style="color:orange">&diams;</span>, 2<span style="color:red">&hearts;</span>, 3<span style="color:blue">&spades;</span>. Opener's saying he can't make a game missing three Aces. Responder *can* raise to 4<span style="color:blue">&spades;</span> with an otherwise good hand and a fit.
+
+### Strong and balanced
+
+
+
+
 
 
 
