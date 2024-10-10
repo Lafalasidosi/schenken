@@ -429,7 +429,7 @@ Shows 11-16 HCP and normally 6+<span style="color:green">&clubs;</span>, but cou
     - 3<span style="color:red">&hearts;</span><span style="color:blue">&spades;</span>: 12+ HCP; **forcing**
   - 3<span style="color:green">&clubs;</span>: total minimum
 - 2<span style="color:orange">&diams;</span> followed by 3<span style="color:orange">&diams;</span>: 6+<span style="color:orange">&diams;</span>, 1-<span style="color:green">&clubs;</span>, 8-11 HCP
-- 2<span style="color:orange">&diams;</span> followed by 4<span style="color:green">&clubs;</span>: 1430 for <span style="color:green">&clubs;</span>; Queen Ask applies; 5<span style="color:orange">&diams;</span> asks for specific Kings
+- 2<span style="color:orange">&diams;</span> **followed by 4**<span style="color:green">&clubs;</span>: 1430 for <span style="color:green">&clubs;</span>; Queen Ask applies; 5<span style="color:orange">&diams;</span> asks for specific Kings
 - 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 5+ card suit, 8-11 HCP
 - 2NT: 11-12 HCP balanced
 - 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 12+ HCP, 5+ cards; forcing
@@ -502,9 +502,83 @@ Suppose the auction goes 2<span style="color:orange">&diams;</span>, 2<span styl
 
 ### Strong and balanced
 
+**Responder** becomes captain if after he answers with his number of Aces Opener rebids some level of Notrump:
 
+2/d/, 2/h/, 
 
+- 2NT (no jump): 23-25 HCP
+- 3NT (jump in NT): 26-28 HCP
 
+Responder must invite slam with 8 HCP in the first case, 5 HCP in the second. Opener knows before his rebid how many Aces are missing, after all. 
+
+Stayman and Jacoby Transfers apply. A bid of 3/s/ or 4/s/ is Minor Suit Stayman. Opener bids his minor suit at the next level to indicate 4, jumps to indicate 5, or rebids NT to deny. Responder can make a quantitative NT raise if wanting a small slam, or 6NT with 9-11 HCP. 
+
+#### Dealing with Interference
+
+We ignore the interference best we can and remain focused on finding the best contract. Responder can Double Overcaller's suit to indicate the Ace thereof, Pass with *no* Aces, and otherwise applies the above Ace-count system best as possible. 
+
+For example, 
+
+2/d/-2/s/:
+
+- Pass: no Aces
+- Double: A/s/
+- 2NT: means A/h/ since that's what it would've meant had there been no interfering bid. 
+
+Another example: 
+
+2/d/-3/s/: 
+
+- Pass: no Aces
+- Double: A/s/
+- 3NT: A/h/
+- 4/c/: A/c/
+- 4/d/: A/d/
+- 4/h/: A/h/ & A/d/
+- 4/s/: A/s/ & A/h/
+- 4NT: two non-touching Aces
+- 5/c/: A/c/ & A/s
+
+etc.
+
+# Weak-Two Openings
+
+We have only two: 2/h/ & 2/s/. Suit quality is generally QJ9xxx or better, 8-9 HCP in 1<sup>st</sup> or 2<sup>nd</sup> seat, 6-12 HCP in 3<sup>rd</sup> depending on vulnerability. 
+
+# 3-Level Openers
+
+- 3/c/: solid 7+/c/ or 10-15 with /c/AKQ10xx or better.
+  - 3NT: stoppers in outside suits
+  - 3/d///h///s/: Western Cue
+    - 3NT: stopper
+    - 4/c/: no stopper
+- 3/d///h///s/: same type of hand as when opening 2/h///s/, except with a 7-card suit. **A new suit is forcing, mind you.**
+- 3NT: solid 7-card /d///h///s/ suit.
+  - Pass: stoppers in unbid suits
+  - 4/c/: Opener must correct to his suit
+
+## The Asking Bid
+
+This convention is discussed in more detail below. A jump to another suit after Partner opens a suit at the 3-level asks him to describe his level of control in the suit. For example: 
+
+3/h/, **5/c/**: 
+
+- 5/d/: neither 1<sup>st</sup>- nor 2<sup>nd</sup>-round control
+- 5/h/: 2<sup>nd</sup>-round control
+- 5/s/: 1<sup>st</sup>-round control
+- 5NT: both 1<sup>st</sup>- and 2<sup>nd</sup>-round control, (i.e. AK, stiff Ace, or a void)
+
+# Other Conventional Calls
+
+**New Minor Forcing**: 11+ HCP, forcing for one round
+
+**Weak Jump Shifts**: both in competition and not, except: 
+
+**Strong Jump Shifts**: limited to 1/d/,3/c/ and 1M,3/d/ only. <a href="https://www.kwbridge.com/bb/b_jshift.htm">This</a> article was mentioned in **Responses to 1/h/ or 1/s/**. 
+
+We follow the approach as discussed in this article, except in two respects:  
+
+First, we believe that 4NT by the jump responder should be RKC for the last suit bid by the opener.  For example, 1/s/, 3/d/, 3/s/, 4/d/, 4/d/, 4NT is 1430 for /d/. The jump bidder doesn't want to play in H [because he wouldn't have made a SJS with a second (4cd) suit]; he just wants to know about Opener's holding in that suit.  Second, since we open 4 cd majors, we must confirm that our major is a 5 card suit.  Our first rebid of the suit either confirms  or denies it.  For example, with 5 spades, we rebid as follows: 1/s/, 3/d/, 3/d/.  If, instead, Opener rebids 3/h/ (EG, 1/s/, 3/d/, 3/h/ ... ) Opener is 4-4 in the majors and denies having a 5-card /s/ suit.  
 
 
 
