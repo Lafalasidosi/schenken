@@ -16,7 +16,7 @@ Schenken is grounded primarily in an aggressive hand evaluation system. Opening 
 
 The opening bidder adds 1 PP for each 4-card suit headed by the Queen or better, an additional point for a 5-card suit, and either 1 or 2 or two points for the 6<sup>th</sup>, 7<sup>th</sup>, 8<sup>th</sup>... cards _each_, depending on the quality of the suit. (Remember that honours are worth more when combined.) Two distribution points may be added by a suit headed by two of the top three honours with good intermediates. The total point count of a hand is the sum of its HCP and DP and is called Playing Points (PP). (_Caution:_ oftentimes DP are referred to by PP as well.) 
 
-We open almost all hands when the total point count is at least 14. One routine 14-point exception is when opener holds a weak 5-card Club suit, 2 or fewer Diamonds, and no 4-card major&mdash;pass with such a hand.
+We open almost all hands when the total point count is at least 14. One routine 14-point exception is when opener holds a weak 5-card Club suit, 2 or fewer Diamonds, and no good 4-card major&mdash;pass with such a hand.
 
 
 ## Hand evaluation by Responder
@@ -377,6 +377,7 @@ With a weak 5-card <span style="color:green">&clubs;</span> suit and 3 <span sty
 - 2NT:    11-12 HCP balanced, may have 4-card major.
   - Opener may bid his own 4-card major at the 3-level, inviting Game in that major or forcing to 3NT.
 - 3<span style="color:orange">&diams;</span>:   Constructive, showing 5+<span style="color:orange">&diams;</span>, normally 8-10 HCP (but can be 7 with good shape and no wasted HCP). Denies a 4-card major, usually unbalanced.
+  - 3<span style="color:red">&hearts;</span>/3<span style="color:blue">&spades;</span>/4<span style="color:green">&clubs;</span>: short suit game try (see Other Conventional Calls below)
 - 3<span style="color:green">&clubs;</span>:   Strong Jump Shift. Here's <a href="https://www.kwbridge.com/bb/b_jshift.htm">this </a> article again.
 - 3NT:    13-15 HCP balanced, may have a 4-card major
 
@@ -504,14 +505,14 @@ Suppose the auction goes 2<span style="color:orange">&diams;</span>, 2<span styl
 
 **Responder** becomes captain if after he answers with his number of Aces Opener rebids some level of Notrump:
 
-2/d/, 2/h/, 
+2<span style="color:orange">&diams;</span>, 2<span style="color:red">&hearts;</span>, 
 
 - 2NT (no jump): 23-25 HCP
 - 3NT (jump in NT): 26-28 HCP
 
 Responder must invite slam with 8 HCP in the first case, 5 HCP in the second. Opener knows before his rebid how many Aces are missing, after all. 
 
-Stayman and Jacoby Transfers apply. A bid of 3/s/ or 4/s/ is Minor Suit Stayman. Opener bids his minor suit at the next level to indicate 4, jumps to indicate 5, or rebids NT to deny. Responder can make a quantitative NT raise if wanting a small slam, or 6NT with 9-11 HCP. 
+Stayman and Jacoby Transfers apply. A bid of 3<span style="color:blue">&spades;</span> or 4<span style="color:blue">&spades;</span> is Minor Suit Stayman. Opener bids his minor suit at the next level to indicate 4, jumps to indicate 5, or rebids NT to deny. Responder can make a quantitative NT raise if wanting a small slam, or 6NT with 9-11 HCP. 
 
 #### Dealing with Interference
 
@@ -519,53 +520,53 @@ We ignore the interference best we can and remain focused on finding the best co
 
 For example, 
 
-2/d/-2/s/:
+2<span style="color:orange">&diams;</span>-2<span style="color:blue">&spades;</span>:
 
 - Pass: no Aces
-- Double: A/s/
-- 2NT: means A/h/ since that's what it would've meant had there been no interfering bid. 
+- Double: A<span style="color:blue">&spades;</span>
+- 2NT: means A<span style="color:red">&hearts;</span> since that's what it would've meant had there been no interfering bid. 
 
 Another example: 
 
-2/d/-3/s/: 
+2<span style="color:orange">&diams;</span>-3<span style="color:blue">&spades;</span>: 
 
 - Pass: no Aces
-- Double: A/s/
-- 3NT: A/h/
-- 4/c/: A/c/
-- 4/d/: A/d/
-- 4/h/: A/h/ & A/d/
-- 4/s/: A/s/ & A/h/
+- Double: A<span style="color:blue">&spades;</span>
+- 3NT: A<span style="color:red">&hearts;</span>
+- 4<span style="color:green">&clubs;</span>: A<span style="color:green">&clubs;</span>
+- 4<span style="color:orange">&diams;</span>: A<span style="color:orange">&diams;</span>
+- 4<span style="color:red">&hearts;</span>: A<span style="color:red">&hearts;</span> & A<span style="color:orange">&diams;</span>
+- 4<span style="color:blue">&spades;</span>: A<span style="color:blue">&spades;</span> & A<span style="color:red">&hearts;</span>
 - 4NT: two non-touching Aces
-- 5/c/: A/c/ & A/s
+- 5<span style="color:green">&clubs;</span>: A<span style="color:green">&clubs;</span> & A/s
 
 etc.
 
 # Weak-Two Openings
 
-We have only two: 2/h/ & 2/s/. Suit quality is generally QJ9xxx or better, 8-9 HCP in 1<sup>st</sup> or 2<sup>nd</sup> seat, 6-12 HCP in 3<sup>rd</sup> depending on vulnerability. 
+We have only two: 2<span style="color:red">&hearts;</span> & 2<span style="color:blue">&spades;</span>. Suit quality is generally QJ9xxx or better, 8-9 HCP in 1<sup>st</sup> or 2<sup>nd</sup> seat, 6-12 HCP in 3<sup>rd</sup> depending on vulnerability. 
 
 # 3-Level Openers
 
-- 3/c/: solid 7+/c/ or 10-15 with /c/AKQ10xx or better.
+- 3<span style="color:green">&clubs;</span>: solid 7+<span style="color:green">&clubs;</span> or 10-15 with <span style="color:green">&clubs;</span>AKQ10xx or better.
   - 3NT: stoppers in outside suits
-  - 3/d///h///s/: Western Cue
+  - 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: Western Cue
     - 3NT: stopper
-    - 4/c/: no stopper
-- 3/d///h///s/: same type of hand as when opening 2/h///s/, except with a 7-card suit. **A new suit is forcing, mind you.**
-- 3NT: solid 7-card /d///h///s/ suit.
+    - 4<span style="color:green">&clubs;</span>: no stopper
+- 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: same type of hand as when opening 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>, except with a 7-card suit. **A new suit is forcing, mind you.**
+- 3NT: solid 7-card <span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> suit.
   - Pass: stoppers in unbid suits
-  - 4/c/: Opener must correct to his suit
+  - 4<span style="color:green">&clubs;</span>: Opener must correct to his suit
 
 ## The Asking Bid
 
 This convention is discussed in more detail below. A jump to another suit after Partner opens a suit at the 3-level asks him to describe his level of control in the suit. For example: 
 
-3/h/, **5/c/**: 
+3<span style="color:red">&hearts;</span>, **5<span style="color:green">&clubs;</span>**: 
 
-- 5/d/: neither 1<sup>st</sup>- nor 2<sup>nd</sup>-round control
-- 5/h/: 2<sup>nd</sup>-round control
-- 5/s/: 1<sup>st</sup>-round control
+- 5<span style="color:orange">&diams;</span>: neither 1<sup>st</sup>- nor 2<sup>nd</sup>-round control
+- 5<span style="color:red">&hearts;</span>: 2<sup>nd</sup>-round control (i.e. Kx or singleton)
+- 5<span style="color:blue">&spades;</span>: 1<sup>st</sup>-round control
 - 5NT: both 1<sup>st</sup>- and 2<sup>nd</sup>-round control, (i.e. AK, stiff Ace, or a void)
 
 # Other Conventional Calls
@@ -574,14 +575,65 @@ This convention is discussed in more detail below. A jump to another suit after 
 
 **Weak Jump Shifts**: both in competition and not, except: 
 
-**Strong Jump Shifts**: limited to 1/d/,3/c/ and 1M,3/d/ only. <a href="https://www.kwbridge.com/bb/b_jshift.htm">This</a> article was mentioned in **Responses to 1/h/ or 1/s/**. 
+**Strong Jump Shifts**: limited to 1<span style="color:orange">&diams;</span>,3<span style="color:green">&clubs;</span> and 1M,3<span style="color:orange">&diams;</span> only. <a href="https://www.kwbridge.com/bb/b_jshift.htm">This</a> article was mentioned in **Responses to 1<span style="color:red">&hearts;</span> or 1<span style="color:blue">&spades;</span>**. 
 
 We follow the approach as discussed in this article, except in two respects:  
 
-First, we believe that 4NT by the jump responder should be RKC for the last suit bid by the opener.  For example, 1/s/, 3/d/, 3/s/, 4/d/, 4/d/, 4NT is 1430 for /d/. The jump bidder doesn't want to play in H [because he wouldn't have made a SJS with a second (4cd) suit]; he just wants to know about Opener's holding in that suit.  Second, since we open 4 cd majors, we must confirm that our major is a 5 card suit.  Our first rebid of the suit either confirms  or denies it.  For example, with 5 spades, we rebid as follows: 1/s/, 3/d/, 3/d/.  If, instead, Opener rebids 3/h/ (EG, 1/s/, 3/d/, 3/h/ ... ) Opener is 4-4 in the majors and denies having a 5-card /s/ suit.  
+First, we believe that 4NT by the jump responder should be RKC for the last suit bid by the opener.  For example, 1<span style="color:blue">&spades;</span>, 3<span style="color:orange">&diams;</span>, 3<span style="color:blue">&spades;</span>, 4<span style="color:orange">&diams;</span>, 4<span style="color:orange">&diams;</span>, 4NT is 1430 for <span style="color:orange">&diams;</span>. The jump bidder doesn't want to play in H [because he wouldn't have made a SJS with a second (4cd) suit]; he just wants to know about Opener's holding in that suit.  Second, since we open 4 cd majors, we must confirm that our major is a 5 card suit.  Our first rebid of the suit either confirms  or denies it.  For example, with 5 spades, we rebid as follows: 1<span style="color:blue">&spades;</span>, 3<span style="color:orange">&diams;</span>, 3<span style="color:orange">&diams;</span>.  If, instead, Opener rebids 3<span style="color:red">&hearts;</span> (EG, 1<span style="color:blue">&spades;</span>, 3<span style="color:orange">&diams;</span>, 3<span style="color:red">&hearts;</span> ... ) Opener is 4-4 in the majors and denies having a 5-card <span style="color:blue">&spades;</span> suit.  
+
+**Fourth Suit Forcing**: forcing to game in all auctions **except** 1<span style="color:orange">&diams;</span>,2<span style="color:orange">&diams;</span>,2<span style="color:red">&hearts;</span>,2<span style="color:blue">&spades;</span>,3<span style="color:green">&clubs;</span>, in which case 3<span style="color:green">&clubs;</span> by Opener there is showing a partial stopper.
+
+**Two-Way Reverse Drury**: After a *third seat major suit opening*:
+
+- 2<span style="color:green">&clubs;</span>: 12-14 PP, 3-card support
+- 2<span style="color:orange">&diams;</span>: 12-14 PP, 4-card support
+
+After either response, if Opener rebids his suit or 2NT, he's not interested in game; other suit bids are Help Suit Game Tries. 
+
+**Short Suit Game Try**: only in a 1<span style="color:orange">&diams;</span>,3<span style="color:orange">&diams;</span> auction. Responder has shown 8-10 HCP with 5+<span style="color:orange">&diams;</span>. If Opener **started** with a maximum hand&mdash;a good 16 PP to 18 PP&mdash;and a singleton or void, he can easily add 3-5 DP to get to 19-23 PP. Most likely we'd have at least four Diamonds for this bid.
+
+ Recall Schenken's evaluation system indicates 5<span style="color:green">&clubs;</span>/5<span style="color:orange">&diams;</span> are likely to make with 30 PP between the two hands. As such, if Responder has wasted values in the short suit and/or no upgrades of his own, he comfortably signs off in 4<span style="color:orange">&diams;</span>; if, however, he has no wasted values in Opener's short suit and can find such upgrades to count 11 PP, 5<span style="color:orange">&diams;</span> is worth a shot.
+
+**Western Cue Bid**: Normally denies a stopper in the suit bid, requesting Partner to bid 3NT if he has one. Keep in mind such exceptions as Fourth Suit in an Inverted Diamond auction, and Schenkensohl.
+
+**Asking Bids**: These bids may look like Splinters, but are very different. When we bid a suit at one level higher than is already forcing, it asks Partner to show his level of control. This is done in steps. A sample auction was already discussed, but here's the general formula for reinforcement:
+
+- cheapest rebid above the Asking Bid: neither 1<sup>st</sup>- nor 2<sup>nd</sup>-round control
+- skip 1 bid: 2<sup>nd</sup>-round control
+- skip 2 bids: 1<sup>st</sup>-round control
+- skip 3 bids: both 1<sup>st</sup>- and 2<sup>nd</sup>-round control, (i.e. AK, stiff Ace, or a void)
 
 
+For example, if Partner's jumped to 3<span style="color:green">&clubs;</span> when 2<span style="color:green">&clubs;</span> would already have been, say, Fourth Suit Forcing, 
 
+- 3<span style="color:orange">&diams;</span>: cheapest rebid
+- 3<span style="color:red">&hearts;</span>: skipped 1 bid, 3<span style="color:orange">&diams;</span>
+- 3<span style="color:blue">&spades;</span>: skipped 2 bids, 3<span style="color:orange">&diams;</span> & 3<span style="color:red">&hearts;</span>
+- 3NT: skipped 3 bids, 3<span style="color:orange">&diams;</span> & 3<span style="color:red">&hearts;</span> & 3<span style="color:blue">&spades;</span>
+
+**Re-Asking Bid**: Suppose the auction goes 
+
+1<span style="color:blue">&spades;</span>,4<span style="color:green">&clubs;</span> (3<span style="color:green">&clubs;</span> would be the Forcing Raise of Spades), 
+4<span style="color:red">&hearts;</span> (second-round control), 5<span style="color:green">&clubs;</span>!
+
+There's no way Responder is showing a Club suit; he wants to know about Opener's third- and fourth-round controls. In this case, applying the rule above, 
+
+- 5<span style="color:orange">&diams;</span>: neither the J<span style="color:green">&clubs;</span> nor Q<span style="color:green">&clubs;</span>
+- 5<span style="color:red">&hearts;</span>: J<span style="color:green">&clubs;</span>
+- 5<span style="color:blue">&spades;</span>: Q<span style="color:green">&clubs;</span>
+- 5NT: QJ<span style="color:green">&clubs;</span>
+
+# Special Doubles 
+
+**Negative Double**: through 4<span style="color:blue">&spades;</span>
+
+**Responsive Double**: through 3<span style="color:blue">&spades;</span> (even when Partner opened 1<span style="color:green">&clubs;</span>)
+
+**Support Double**: through 2<span style="color:red">&hearts;</span>
+
+**Positive Double**: applies to 1<span style="color:green">&clubs;</span> auctions where RHO's interfered up to 3<span style="color:orange">&diams;</span>; if RHO overcalls 3<span style="color:red">&hearts;</span> or higher, Double is for penalty.
+
+**Control Doubles & Redoubles**: 
 
 
 <span style="color:blue">&spades;</span>
