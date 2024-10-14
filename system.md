@@ -418,6 +418,12 @@ If the Opponents overcall 1<span style="color:orange">&diams;</span> with 1NT, R
 
 Suppose the Auction goes 1<span style="color:orange">&diams;</span>-Double-Pass-Pass to you. Rightie has a stack of Diamonds. Opener Redoubles to ask Partner to bid his best major; Partner passes with 4+<span style="color:orange">&diams;</span>.
 
+## Transfers over 1<span style="color:orange">&diams;</span>-X
+
+We play transfers when our 1<span style="color:orange">&diams;</span> opening is Doubled for takeout:
+
+- 
+
 ## The 2<span style="color:green">&clubs;</span> Opening
 
 Shows 11-16 HCP and normally 6+<span style="color:green">&clubs;</span>, but could show a very good 5-card <span style="color:green">&clubs;</span> suit. We do not normally open 2<span style="color:green">&clubs;</span> with a 5-card suit and a minimum hand if vulnerable or Partner is a passed hand&mdash;even if the hand is worth 14 PP.
