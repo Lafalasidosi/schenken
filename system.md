@@ -438,12 +438,16 @@ Shows 11-16 HCP and normally 6+<span style="color:green">&clubs;</span>, but cou
 - 2<span style="color:orange">&diams;</span> followed by 3<span style="color:orange">&diams;</span>: 6+<span style="color:orange">&diams;</span>, 1-<span style="color:green">&clubs;</span>, 8-11 HCP
 - 2<span style="color:orange">&diams;</span> **followed by 4**<span style="color:green">&clubs;</span>: 1430 for <span style="color:green">&clubs;</span>; Queen Ask applies; 5<span style="color:orange">&diams;</span> asks for specific Kings
 - 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 5+ card suit, 8-11 HCP
-- 2NT: 11-12 HCP balanced
-- 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 12+ HCP, 5+ cards; forcing
+- 2NT: game-forcing, should deny a 4-card major.
+  - 3<span style="color:green">&clubs;</span>: no 4-card <span style="color:orange">&diams;</span> or <span style="color:red">&hearts;</span> suit
+  - 3<span style="color:orange">&diams;</span>: 4+<span style="color:orange">&diams;</span>
+  - 3<span style="color:red">&hearts;</span>: 4+<span style="color:red">&hearts;</span>
+  - 3<span style="color:blue">&spades;</span>: **Do not bid this!** Responder may have been preparing to show a 5-card <span style="color:red">&hearts;</span> suit. _If you have a 4-card <span style="color:blue">&spades;</span> suit, bid 3<span style="color:green">&clubs;</span>; you can potentially show your <span style="color:blue">&spades;</span> after partner's next bid_.
+- 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>: 12+ HCP, should be 6+ cards; better suit than starting with 2NT; forcing
   - Opener should raise with 3+ card support, but can opt for 3NT or retreat to 4<span style="color:green">&clubs;</span>
   - If Responder's bid were 3<span style="color:orange">&diams;</span>, Opener should bid a major suit stopper if he has only one
-- 3<span style="color:green">&clubs;</span>/5<span style="color:green">&clubs;</span>: to play
-- 4<span style="color:green">&clubs;</span>: invitational to 5<span style="color:green">&clubs;</span>
+- 3<span style="color:green">&clubs;</span>: inviting 3NT or 5<span style="color:green">&clubs;</span>.
+- 4<span style="color:green">&clubs;</span>/5<span style="color:green">&clubs;</span>: preemptive 
 
 ## Dealing with Interference at the 2-Level
 
