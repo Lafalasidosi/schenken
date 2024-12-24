@@ -1,7 +1,7 @@
 # General Approach
 
 - _1<span style="color:green">&clubs; </span>=17+ HCP, can be as few as 14 with a good suit_
-- _a pass of 1<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>= 7 HCP or fewer_
+- _a pass of 1<span style="color:orange">&diams;</span>/1<span style="color:red">&hearts;</span>/1<span style="color:blue">&spades;</span>= 7 HCP or fewer_
 - _we frequently open 4-card majors and may have a longer minor when we do so_
 
 Schenken Big Club combines **two bidding systems**: 
@@ -52,16 +52,18 @@ There are 18-point hands we downgrade to 1NT; there are 14-point hands we may up
 ## Responses to 1NT
 
 - 2<span style="color:green">&clubs;</span> is Stayman, 
-- 2<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span> & 4<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span> are Jacoby & Texas transfers to 2<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> & 4<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> respectively. 
+- 2<span style="color:orange">&diams;</span>/2<span style="color:red">&hearts;</span> & 4<span style="color:orange">&diams;</span>/4<span style="color:red">&hearts;</span> are Jacoby & Texas transfers to 2<span style="color:red">&hearts;</span>/2<span style="color:blue">&spades;</span> & 4<span style="color:red">&hearts;</span>/4<span style="color:blue">&spades;</span> respectively. 
 
 - We play <a href="https://bridgewinners.com/article/view/4-way-transfers-with-range-ask/">4-way Transfers with Range Ask</a>; 2<span style="color:blue">&spades;</span> is either: 
 
     - a hand which would invite 3NT, or
     - a transfer to 3<span style="color:green">&clubs;</span>.
 
-    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> with shortness in the last bid suit and slam interest.
+    Opener responds to 2<span style="color:blue">&spades;</span> by bidding 2NT if he wouldn't accept an invite to 3NT, 3<span style="color:green">&clubs;</span> if he would. Over 2NT Responder passes with a weak hand or corrects to 3<span style="color:green">&clubs;</span>. Over 3<span style="color:green">&clubs;</span> he passes if weak with 6+<span style="color:green">&clubs;</span>, bids 3NT if he meant to invite Game, and 3<span style="color:orange">&diams;</span>/3<span style="color:red">&hearts;</span>/3<span style="color:blue">&spades;</span> to show a strong <span style="color:green">&clubs;</span> with shortness in the last bid suit and slam interest.
 
 - 2NT is a transfer to 3<span style="color:orange">&diams;</span>, which he may follow up with 3<span style="color:red">&hearts;</span>, 3<span style="color:blue">&spades;</span>, or 4<span style="color:green">&clubs;</span> to show shortness and desire for slam as before.
+
+  -3/c/ is a superaccept, inviting Responder to bid 3NT with a good /d/ suit
 
 - 3<span style="color:green">&clubs;</span> is Puppet Stayman, asking Opener for a 5-card major.
 
@@ -246,8 +248,12 @@ As mentioned in the introductory comments, the rules for responses to 1<span sty
 
   - 2<span style="color:green">&clubs;</span>: 7-8 HCP, at least one Ace or King (with 7-8 points in Quacks, bid 1<span style="color:orange">&diams;</span>). Forcing to game _most of the time_ (e.g. definitely forcing when Opener rebids 2NT).
 
-  **All other responses are game-forcing**
-  - 1<span style="color:red">&hearts;</span>/<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>/3<span style="color:green">&clubs;</span>: 5+ cards, 9+ HCP
+  - Dbl of RHO's 3/h/-or-higher: penalty
+
+  **All other responses are game-forcing:**
+
+  - 1<span style="color:red">&hearts;</span>/1<span style="color:blue">&spades;</span>/2<span style="color:orange">&diams;</span>/3<span style="color:green">&clubs;</span>: 5+ cards, 9+ HCP
+  - Dbl if RHO overcalled up to 3/d/: 9+ HCP
 
 Opener should not raise Responder's suit immediately if he has his own 5+card suit, but raise if Responder himself doesn't. An immediate raise of Responder's suit implies 4+ card support. 
 
@@ -643,7 +649,105 @@ There's no way Responder is showing a Club suit; he wants to know about Opener's
 
 **Positive Double**: applies to 1<span style="color:green">&clubs;</span> auctions where RHO's interfered up to 3<span style="color:orange">&diams;</span>; if RHO overcalls 3<span style="color:red">&hearts;</span> or higher, Double is for penalty.
 
-**Control Doubles & Redoubles**: 
+## Lebensohl
+
+We play <a href='https://www.bridgebum.com/lebensohl_over_weak_two.php'>Lebensohl</a>  over a Double of a weak-two opening.
+
+## Control Doubles & Redoubles:
+
+### In the forcing raise auction
+
+After Responder makes a forcing raise or Opener makes a forcing-riase-rebid and the Opponents interfere, doubling the interfering bid shows shortness in that suit (f.e. after 1/s/-Pass-3/c/-3/d/, Double shows 1/d/, 4/d/ shows 0/d/).
+
+### After an Opponent furthers a preempt
+
+LHO opens 2/h/, Partner bids, then RHO bids 5/h/. Doubling 5/h/ here shows an Ace outside Partner's suit.
+
+### After *we* preempt
+
+Partner opens a weak-two and RHO doubles. Redouble here shows the Ace or King of Partner's suit.
+
+### When the Opponents double a cuebid of shortness
+
+For example, 1/s/-Pass-3/c/-Pass-3/d/-Dbl. By Responder, Redouble shows first-round control in Diamonds.
+
+### When the Opponents double a first-round control cue
+
+Redouble by Partner shows second-round control (t.i. a King or a singleton).
+
+### Redouble to show extra strength or S.O.S.
+
+If Partner is doubled by *his* RHO, *your* LHO, Redouble shows a maximum hand (16 HCP); if doubled by his LHO, Redouble is for rescue.
+
+# Overcalls
+
+## Simple overcalls
+
+At the 1-level: 8-16 HCP usually; new suit by Advancer is non-forcing; a jump raise is preemptive; a jump cue is a constructive raise (12-14 PP, 4-card support); a jump shift is strong and *virtually* forcing; a simple cue bid is *absolutely* forcing.
+
+Advancer makes a simple cue bid with an invitational, delayed raise of Overcaller's suit (3-cards) or many HCP and no clear final contract.
+
+## Jump Overcalls
+
+A jump overcall shows 6+ cards in the suit bid. Strength is determined by vulnerability:
+
+- Non-vulnerable:     6-10 HCP
+- Equally vulnerable: 11-16 HCP
+- Unvavourable:       14-16 HCP (*pristine* 13 HCP can do)
+
+# Preempts
+
+Schenken recommends that preempts in first and second seats be sound, holding 8-9 HCP and QJ9xxx or better. Our preempts are slightly more agressive in first seat, slightly more conservative in second, and as low as 6 to a good 5 in third seat.
+
+# Direct Cuebid
+
+At the 1-level, a direct cuebid is a standard Michael's one.
+
+A direct cuebid of a weak-two is a Western Cue, asking Partner to bid 3NT if he has a stopper.
+
+# Leaping and Non-leaping Michaels
+
+**Over a weak 2/d/:**
+
+- 4/c/: /c/ &amp; a major
+  - 4/d/ asks which major
+- 4/d/: /h/ &amp; /s/
+
+**Over a weak 2/h/:**
+
+- 4/c/: /c/ &amp; /s/
+- 4/d/: /d/ &amp; /s/
+
+**Over a weak 2/s/:**
+
+- 4/c/: /c/ &amp; /h/
+- 4/d/: /d/ &amp; /h/
+
+**Over a weak 3/c/:**
+
+- 4/c/: /h/ &amp; /s/
+- 4/d/: /d/ &amp; unspecified major
+  - 4/h/: pass or correct to 4/s/
+
+**Over a weak 3/d/:**
+
+- 4/c/: /d/ &amp; unspecified major
+  - 4/d/: asks which major
+- 4/d/: /h/ &amp; /s/
+
+
+**Over a weak 3/h/:**
+
+- 4/c/: /c/ &amp; /s/
+- 4/d/: /d/ &amp; /s/
+
+**Over a weak 3/s/:**
+
+- 4/c/: /c/ &amp; /h/
+- 4/d/: /d/ &amp; /h/
+
+# Notrump Overcalls
+
 
 
 <span style="color:blue">&spades;</span>
